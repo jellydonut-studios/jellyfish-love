@@ -11,13 +11,17 @@
             "id": "13477756cd69d532",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "canvas",
               "state": {
-                "file": "Characters/Characters.base",
-                "viewName": "All Characters"
+                "file": "TODO.canvas",
+                "viewState": {
+                  "x": -148.4781262719381,
+                  "y": -111.10875143305404,
+                  "zoom": -0.4001549571855059
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "Characters"
+              "icon": "lucide-layout-dashboard",
+              "title": "TODO"
             }
           }
         ]
@@ -209,15 +213,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "e724e78722f0310a",
+  "active": "13477756cd69d532",
   "lastOpenFiles": [
-    "Jellyfish Love Vault",
-    "New folder",
     "Characters/Characters.base",
     "TODO.canvas",
+    "Jellyfish Love Vault",
+    "New folder",
     "The Jellyfish Otome Game.md",
     "Shinigami Brainstorming.canvas",
     "docs/index.md",
@@ -245,7 +251,6 @@
     "docs/Characters",
     "docs/Timeline/Timeline Events.md",
     "docs/Timeline/Grand Timeline.md",
-    "docs/Timeline",
     "docs/Places/HYPERDOLPHIN.md",
     "docs/Places/Crown Academy.md",
     "docs/Images/Metadata/Shinigami kun_METADATA_JPG.md",
