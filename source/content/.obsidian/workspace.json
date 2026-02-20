@@ -11,13 +11,14 @@
             "id": "13477756cd69d532",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Images/Uploaded Images.base",
-                "viewName": "Image View"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Uploaded Images"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -215,17 +216,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13477756cd69d532",
+  "active": "57a66723fb2c58fc",
   "lastOpenFiles": [
-    "Images/placeholder.png",
+    "Characters/The Nozaki Family/Yuune Nozaki.md",
+    "TODO.canvas",
     "Images/Uploaded Images.base",
+    "Images/placeholder.png",
     "Characters/Characters.base",
     "index.md",
     "source/content/Characters/The Hiue Family/Saburou Hiue.md",
     "Characters/The Hiue Family/Saburou Hiue.md",
     "Jelly Donut Studios.md",
     "Images/Metadata/CONFLICT-2026-02-19-10-37-17-Hiue Family Tree_METADATA_PNG.md",
-    "Characters/The Nozaki Family/Yuune Nozaki.md",
     "Characters/The Nozaki Family/The Nozaki Family.md",
     "Characters/Shima Hiratoki.md",
     "Images/Metadata/CONFLICT-2026-02-19-10-44-19-icon_METADATA_PNG.md",
@@ -262,10 +264,8 @@
     "source/docs/images/quartz transform pipeline.png",
     "source/docs/images/github-init-repo-options.png",
     "source/docs/images/giscus-results.png",
-    "source/docs/images/giscus-example.png",
     "source/content/TODO.canvas",
     "source/content/Shinigami Brainstorming.canvas",
-    "TODO.canvas",
     "Shinigami Brainstorming.canvas",
     "content/source/content/TODO.canvas",
     "content/source/content/Shinigami Brainstorming.canvas",
