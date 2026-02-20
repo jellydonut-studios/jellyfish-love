@@ -9,24 +9,18 @@
 
 # Gameplay
 --- 
-
+You play as [[Ponyo Shinawa]], a high school girl attending her first year at the [[Crown Academy]]. 
 # Plot
 --- 
-[[Shinki Sakasai]], a jellyfish down on her luck, stumbles upon a mysterious [[Shinigami kun|Shinigami]].
 
-> [!warning]+ Spoiler Warning!
-> This section contains spoilers for *The Shinigami that is also a Jellyfish*. You have been warned!
-
-> [!warning] Spoilers End Here  
 
 # Development
 --- 
 
 # Etymology
 ---
-*The Shinigami that is also a Jellyfish* is a placeholder name.
-- 
-
+_The Jellyfish Otome Game_ is a placeholder name.
+The project was originally called *Ite! It's Jellyfish Love* when it was first developed, but after getting better at Japanese I realized that "Ite" isn't very fitting. 
 # Fun Facts
 ---
 - This game is largely inspired by Kenishi Yonezu's "[Shinigami](https://youtu.be/8nxaZ69ElEc?si=RULp5xu-0gAOVI4y)"
