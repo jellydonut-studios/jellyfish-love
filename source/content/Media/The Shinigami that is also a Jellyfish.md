@@ -27,6 +27,7 @@ It is the spiritual spin-off of [[The Jellyfish Otome Game]], mainly featuring t
 # Etymology
 ---
 _The Shinigami that is also a Jellyfish_ is a placeholder name.
+Unlike [[The Jellyfish Otome Game]], this game will probably have drastically different names in English and Japanese.
 
 # Fun Facts
 ---
@@ -34,7 +35,7 @@ _The Shinigami that is also a Jellyfish_ is a placeholder name.
 	- A rough design for Shinigami kun came first, along with a few other concept sketches for a main character. 
 		- A *Periphylla periphylla* was considered, but I chose to make the main character a *Cassiopea ornata*
 	- 
-- 
+- Unless I get a translator for this game, it probably will only be available in English.
 
 # Links
 ---
