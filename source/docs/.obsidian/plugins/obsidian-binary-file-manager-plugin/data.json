@@ -1,0 +1,26 @@
+{
+  "autoDetection": true,
+  "extensions": [
+    "png",
+    "jpg",
+    "jpeg",
+    "gif",
+    "bmp",
+    "svg",
+    "mp3",
+    "webm",
+    "wav",
+    "m4a",
+    "ogg",
+    "3gp",
+    "flac",
+    "mp4",
+    "webm",
+    "ogv",
+    "pdf"
+  ],
+  "folder": "Images/Metadata",
+  "filenameFormat": "{{NAME}}_METADATA_{{EXTENSION:UP}}",
+  "templatePath": "",
+  "useTemplater": false
+}
