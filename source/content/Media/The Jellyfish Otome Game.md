@@ -23,10 +23,7 @@ _The Jellyfish Otome Game_ is a placeholder name.
 The project was originally called *Ite! It's Jellyfish Love* when it was first developed, but after getting better at Japanese I realized that "Ite" isn't very fitting. 
 # Fun Facts
 ---
-- This game is largely inspired by Kenishi Yonezu's "[Shinigami](https://youtu.be/8nxaZ69ElEc?si=RULp5xu-0gAOVI4y)"
-	- A rough design for Shinigami kun came first, along with a few other concept sketches for a main character. 
-		- A *Periphylla periphylla* was considered, but I chose to make the main character a *Cassiopea ornata*
-	- 
+- I had the idea to make this game when a kid at my job kept asking me about Jellyfish and I realized I actually really liked them. 
 - 
 
 # Links
