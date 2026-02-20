@@ -22,7 +22,7 @@ The named members of the Nakachi Family are as follows:
 - Nakachi Selene: The youngest daughter, currently deceased.
 # Etymology
 ---
-*Nakachi* is written as 中地:
+_Nakachi_ is written as 中地:
 - "中": Middle
 - "地": Earth
 - The *Cotylorhiza tuberculata* is known as the 中地海クラゲ (*Chichoukai Kurage*), so the name is simply that but switched. Additionally, it is also known 
@@ -36,7 +36,6 @@ The named members of the Nakachi Family are as follows:
 - [Link to quotes]
 
 #nakachike #family
-# Footer
----
+# Footnotes
 
 > TODO: Maybe remake to be italian. Nah, these are also all over Japan too

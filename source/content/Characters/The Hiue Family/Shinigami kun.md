@@ -33,9 +33,9 @@ aliases:
 
 # Etymology
 ---
-*Hiue* is written as [[The Hiue Family#Etymology|火上]]:
+_Hiue_ is written as [[The Hiue Family#Etymology|火上]]:
 - *See the Hiue family page*
-*Shirou* is written as 四郎:
+_Shirou_ is written as 四郎:
 - (Lit. 4rd Son)
 - Named because he was the 4th son of the Hiue family
 # Fun Facts

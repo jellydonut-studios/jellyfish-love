@@ -70,13 +70,13 @@ To apply as a registered club at the Crown Academy, clubs must have at least fiv
 # Story
 ---
 ## [[The Jellyfish Otome Game]]
-*TBD*
+_TBD_
 
 ## [[The Shinigami that is also a Jellyfish]]
 While the Crown Academy cannot be visited in the game, [[Shinki Sakasai|Shinki]] mentions that she had attended it in the past. 
 # Etymology
 ---
-*The Crown Academy* is a placeholder name.
+_The Crown Academy_ is a placeholder name.
 
 # Fun Facts
 ---

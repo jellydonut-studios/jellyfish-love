@@ -52,7 +52,7 @@ Unnamed: Katsuo's Grandfather, Katsuo's 3 Grandmothers (who I will name A, B, an
 - [[Katsuo Hiue]], Jirou's son. 
 # Etymology
 ---
-*Hiue* is written as 火上:
+_Hiue_ is written as 火上:
 - 火: Fire
 - 上: Up, upper
 - Named for the ヒクラゲ (Hikurage), meaning Fire Jellyfish.

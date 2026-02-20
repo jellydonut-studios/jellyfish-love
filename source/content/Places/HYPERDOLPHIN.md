@@ -28,7 +28,7 @@ The following are known members of HYPERDOLPHIN
 
 # Etymology
 ---
-*HYPERDOLPHIN* is named for the underwater ROV of the same name, run by JAMSTEC[^1].
+_HYPERDOLPHIN_ is named for the underwater ROV of the same name, run by JAMSTEC[^1].
 
 # Fun Facts
 ---

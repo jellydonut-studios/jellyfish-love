@@ -28,9 +28,9 @@ After being kicked out of her house, Shinki meets Shinigami in a shady area and 
 
 # Etymology
 ---
-*Sakasai* is written as [[The Sakasai Family#Etymology|逆井]]:
+_Sakasai_ is written as [[The Sakasai Family#Etymology|逆井]]:
 - *See the Sakasai family page*
-*Shinki* is written as 心妃:
+_Shinki_ is written as 心妃:
 - "心": Heart
 - "妃": Consort, usually a suffix
 - I think it is a cute name for a girl who is loved.

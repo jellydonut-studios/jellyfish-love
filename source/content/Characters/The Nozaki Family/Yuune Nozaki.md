@@ -29,9 +29,9 @@
 
 # Etymology
 ---
-*Nozaki* is written as [[The Nozaki Family#Etymology|野崎]]:
+_Nozaki_ is written as [[The Nozaki Family#Etymology|野崎]]:
 - *See the Nozaki family page*
-Yuune is written as 幽音:
+_Yuune_ is written as 幽音:
 - 幽: "Silent"
 - 音: "Sound"
 - Mostly I thought these two characters encapsulated her story very well. Also, the kanji 幽 is present in the Japanese name of her jellyfish, that being the 幽霊クラゲ (*Yuurei Kurage*)

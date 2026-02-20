@@ -16,7 +16,7 @@ The named members of the Nozaki Family are as follows:
 - [[Yuune Nozaki]]
 # Etymology
 ---
-*Nozaki* is written as 野崎:
+_Nozaki_ is written as 野崎:
 - 野: Town, Village
 - 崎: Cape
 - Named from the scientific name of the Ghost jellyfish (*Cyanea nozakii*). 

@@ -18,7 +18,7 @@ The Kaburagi Family established the [[Crown Academy]] nearly 200 years ago.
 
 # Etymology
 ---
-*Kaburagi* is written as 冠城:
+_Kaburagi_ is written as 冠城:
 - 冠: Crown
 - 城: Castle
 - Named for the "Crown Jellyfish" (Coronatae), which is the clade that Ephyra Jellyfish are a part of.

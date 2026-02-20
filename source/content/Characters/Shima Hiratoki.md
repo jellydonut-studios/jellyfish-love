@@ -26,11 +26,11 @@
 
 # Etymology
 ---
-*Hiratoki* is written as 平時:
+_Hiratoki_ is written as 平時:
 - "平": Flat, peace
 - "時": Time
 - Mainly named for the family ヒラタカムリクラゲ (*Atollidae*), of which the Atolla jellyfish is a member of. 
-*Shima* is written as 紫眞:
+_Shima_ is written as 紫眞:
 - "紫": Purple
 - "眞": Truth, True (Variant)
 - Named for the 紫カムリクラゲ (*Murasaki Kamuri Kurage*).

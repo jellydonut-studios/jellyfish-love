@@ -15,7 +15,7 @@
 
 # Etymology
 ---
-*PlaceName* is...
+*{{PlaceName}}* is...
 
 # Fun Facts
 ---
