@@ -5,10 +5,11 @@ import * as Plugin from "./quartz/plugins"
  * Quartz 4.0 Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
+ * Use Noto Sans Japanese for body?
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4.0",
+    pageTitle: "Jellyfish Love! Lore",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -23,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "M PLUS 1 Code",
+        header: "Commissioner",
+        body: "Kosugi Maru",
         code: "IBM Plex Mono",
       },
       colors: {
