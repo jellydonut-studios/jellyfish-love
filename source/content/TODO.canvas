@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"2b951d2f2de0b0b4","type":"text","text":"Pages to make: \n\n- Places \n\nInformation to Make:\n- [[Crown Academy#School year]] School schedule (game events can be put in another doc. Maybe the Jellyfish Otome Game doc?)\n- [[Shinigami kun#Footer]] musings and implications of being a shinigami\n\nFormatting\n- Fix formatting for wiki-style infobox\n- Make the tables not terrible\n- Find a way to search images by character (and make it work for future endeavors)","x":-660,"y":-660,"width":500,"height":480,"color":"#ffadba"},
-		{"id":"db9f91fb783a2903","type":"text","text":"# Ite Overview\nIt's XX87. It's been XXX years since the world flooded over, drowning humanity and leaving Jellyfish to rule the world in their wake. \n\nWe look at a futuristic Japan buried underneath the sea, following a human girl named Ponyo Shinawa (心泡ポニョ) as she navigates life at the super prestigious international school in Kyoto, Japan. \n\nWill she get out alive? And will she ever find the fabled *Jellyfish Love*?\n","x":-600,"y":-80,"width":455,"height":400},
-		{"id":"b63ff4a78e3d621d","x":-18,"y":-362,"width":250,"height":382,"type":"text","text":"For the Website:\n- Fix formatting\n- Change names and stuff"}
-	],
-	"edges":[]
-}
