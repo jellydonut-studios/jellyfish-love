@@ -8,3 +8,4 @@ views:
         - file.tags.contains("characters")
     order:
       - file.name
+    image: formula.Image

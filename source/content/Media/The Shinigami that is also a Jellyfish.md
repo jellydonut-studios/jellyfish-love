@@ -26,7 +26,7 @@ It is the spiritual spin-off of [[The Jellyfish Otome Game]], mainly featuring t
 
 # Etymology
 ---
-*The Shinigami that is also a Jellyfish* is a placeholder name.
+_The Shinigami that is also a Jellyfish_ is a placeholder name.
 - 
 
 # Fun Facts

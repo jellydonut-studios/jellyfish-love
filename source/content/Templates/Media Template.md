@@ -13,7 +13,7 @@
 
 # Etymology
 ---
-*{{title}}* was named from...
+_{{title}}_ was named from...
 - 
 
 # Fun Facts

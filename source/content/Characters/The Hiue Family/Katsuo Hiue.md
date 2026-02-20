@@ -26,9 +26,9 @@
 
 # Etymology
 ---
-*Hiue* is written as [[The Hiue Family#Etymology|火上]]:
+_Hiue_ is written as [[The Hiue Family#Etymology|火上]]:
 - *See the Hiue family page*
-*Katsuo* is written as 勝雄:
+_Katsuo_ is written as 勝雄:
 - 勝: "To win"
 - 雄: "Manly"
 - I thought it fit, considering how his father would want his only son to be a winner

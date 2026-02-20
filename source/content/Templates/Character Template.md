@@ -26,9 +26,9 @@
 
 # Etymology
 ---
-*LastName* is written as [LastName in Japanese]
+_LastName_ is written as [LastName in Japanese]
 - *If they're part of a family page, link it above and mention it here*
-*FirstName* is written as [FirstName in Japanese]:
+_FirstName_ is written as [FirstName in Japanese]:
 - 
 
 # Fun Facts

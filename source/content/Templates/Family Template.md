@@ -16,7 +16,7 @@
 
 # Etymology
 ---
-*LastName* is written as [LastName in Japanese]
+_LastName_ is written as [LastName in Japanese]
 - 
 
 # Fun Facts

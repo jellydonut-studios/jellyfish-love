@@ -30,7 +30,7 @@ As a human, he has sharp eyes and a visible burn scar on his left cheek. He has 
 
 # Etymology
 ---
-*Hiue* is written as [[The Hiue Family#Etymology|火上]]:
+_Hiue_ is written as [[The Hiue Family#Etymology|火上]]:
 - *See the Hiue family page*
 *Saburou* is written as 三郎:
 - (Lit. 3rd Son)
