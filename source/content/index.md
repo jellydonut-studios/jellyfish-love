@@ -7,6 +7,7 @@ This Vault is contains a comprehensive view of everything in my Jellyfish univer
 
 I'm mainly using this vault to keep track of lore and events that goes on in my stories, but eventually I hope it will become a wiki-style place for people to reference information about the game. 
 
+For ease of identification, all jellyfish will be written with their latin names. Information about them should be readily available on Wikipedia or the WoRMS.
 # Important Links
 ---
 - Timeline of Everything Important: [[Grand Timeline]]

@@ -1,3 +1,6 @@
+> [!WARNING]+ Spoiler Warning!
+> This entry contains spoilers for the Jellyfish Otome Game. You have been warned!
+
 >[!infobox] Yuune Nozaki
 >![[placeholder.png]]
 ><div class="label">JP Name</div> 野崎幽音
@@ -7,9 +10,6 @@
 ><div class="label">Strobilation Day</div>N/A<div />
 ><div class="label">Gender</div>Female<div />
 ><div class="label">Status</div>Deceased (Yuurei)
-
-> [!WARNING]+ Spoiler Warning!
-> This entry contains spoilers for the Jellyfish Otome Game. You have been warned!
 
 > [Put some quote here]
 

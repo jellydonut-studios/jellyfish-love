@@ -1,0 +1,19 @@
+Images/Hiue Family Tree.png
+Images/placeholder.png
+Images/Shinigami kun.jpg
+source/content/Images/Hiue Family Tree.png
+source/content/Images/placeholder.png
+source/content/Images/Shinigami kun.jpg
+source/docs/images/dns records.png
+source/docs/images/giscus-repo.png
+source/docs/images/giscus-discussion.png
+source/docs/images/giscus-example.png
+source/docs/images/giscus-results.png
+source/docs/images/github-init-repo-options.png
+source/docs/images/quartz transform pipeline.png
+source/docs/images/github-quick-setup.png
+source/docs/images/quartz-layout-mobile.png
+source/docs/images/quartz-layout-desktop.png
+source/docs/images/quartz-layout-tablet.png
+source/quartz/static/og-image.png
+source/quartz/static/icon.png
