@@ -16,3 +16,4 @@ For ease of identification, all jellyfish will be written with their latin names
 - The Shinigami that is also a Jellyfish: [[The Shinigami that is also a Jellyfish]]
 
 
+See All Characters:

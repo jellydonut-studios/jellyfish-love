@@ -1,6 +1,5 @@
 formulas:
-  Image: |
-    image(file.embeds[0])
+  Image: image(file.embeds[0])
 views:
   - type: cards
     name: All Characters
@@ -8,16 +7,4 @@ views:
       and:
         - file.tags.contains("characters")
     order:
-      - file.tags
       - file.name
-    imageFit: contain
-    image: formula.Image
-  - type: cards
-    name: Families in Jellyfish Love
-    filters:
-      and:
-        - file.tags.contains("family")
-        - file.ext == "md"
-    order:
-      - file.name
-      - file.tags
