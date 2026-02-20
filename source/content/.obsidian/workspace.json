@@ -210,10 +210,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "timelines-revamped:Insert Timeline Event": false,
-      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
   "active": "57a66723fb2c58fc",
