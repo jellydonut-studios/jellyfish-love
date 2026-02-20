@@ -14,11 +14,11 @@ Japan was governed by two main powers that shared responsibility on the surface:
 
 Kazuo and Futao’s father feared death, and sought true immortality throughout his life. Experiments and miracle cures were sought after even before they were born. Both merely inherited it. 
 
-- The research was largely fast-tracked thanks to Sakasai Yoshinori, a once in a century genius.
+- The research was largely fast-tracked thanks to Sakasai Yoshinori, a once-in-a-century genius.
 
-In the Army, specifically, the Morbakkas (Hiues)  and the Yamaguchiis (Yamaguchis) fought to steal power from the other and the crown.  
+In the Army, specifically, the *Morbakka*s (Hiues)  and the *Yamaguchi*is (Yamaguchis) fought to steal power from the other and the crown.  
 
-The idea to start a spartan-esque training goes back generations, to probably the second generation of Hiues- thanks to the ensuing family battle for inheritance. Of course, they also wanted to produce heirs that could stand up to the Yamaguchis. 
+The idea to start a spartan-esque training goes back generations (to probably the second generation of Hiues) thanks to the ensuing family battle for inheritance. Of course, they also wanted to produce heirs that could stand up to the *Yamaguchi*s. 
 
 - Siblings were forced to fight each other to the death in order to inherit the family
 

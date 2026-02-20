@@ -6,7 +6,7 @@
 
 > [Put some quote here]
 
-The **Sakasai Family** (逆井家) is a wealthy family most well-known for creating and distributing medical equipment. 
+The **Sakasai Family** (逆井家) is a wealthy family of *Cassiopea ornata* most well-known for creating and distributing medical equipment. 
 
 In recent times, they've also started developing medical equipment themselves with funding from [[The Kaburagi Family]].
 
@@ -26,7 +26,7 @@ Notable members of the Sakasai family include:
 *Sakasai* is written as 逆井:
 - "逆": Upside down, opposite
 - "井": Crib, well
-- Sakasai shares a kanji and reading with the 逆さクラゲ, or any member of the genus *Cassiopea*. 
+- Sakasai shares a kanji and reading with the 逆さクラゲ, which refers to any member of the genus *Cassiopea*. 
 
 # Fun Facts
 ---

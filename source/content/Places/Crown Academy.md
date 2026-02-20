@@ -29,19 +29,20 @@ The named characters associated with the school are as follows:
 | [[Shima Hiratoki]] | Homeroom Teacher of Class [X] |
 ## Current Students:
 
-| Name                 | Year | Class | Club                 |
-| -------------------- | ---- | ----- | -------------------- |
-| [[Ponyo Shinawa]]    | 1st  |       | Varies               |
-| [[Sui Mizutsuki]]    | 1st  |       |                      |
-| [[Achlys Ortega]]    | 1st  |       |                      |
-| [[Luis Kaburagi]]    | 1st  |       |                      |
-| [[Katsuo Hiue]]      | 1st  |       |                      |
-| [Taco kun]           | 3rd  |       |                      |
-| [[Kanzou Sugama]]    | 4th  |       | [[HYPERDOLPHIN]]     |
-| [[Kiseki Ishiboshi]] | 4th  |       | [[HYPERDOLPHIN]]     |
-| [[Yuune Nozaki]]     | 4th  |       | [[HYPERDOLPHIN]]     |
-| [[Helios Nakachi]]   | 4th  |       | [[HYPERDOLPHIN]]     |
-| [[Ushio Sakasai]]    | 4th  |       | [[Engineering Club]] |
+| Name                     | Year | Class | Club                 |
+| ------------------------ | ---- | ----- | -------------------- |
+| [[Ponyo Shinawa]]        | 1st  |       | Varies               |
+| [[Sui Mizutsuki]]        | 1st  |       |                      |
+| [[Achlys Ortega]]        | 1st  |       |                      |
+| [[Luis Kaburagi]]        | 1st  |       |                      |
+| [[Katsuo Hiue]]          | 1st  |       |                      |
+| [Taco kun]               | 3rd  |       | Student Council      |
+| Kita [Last Name Pending] | 3rd  |       |                      |
+| [[Kanzou Sugama]]        | 4th  |       | [[HYPERDOLPHIN]]     |
+| [[Kiseki Ishiboshi]]     | 4th  |       | [[HYPERDOLPHIN]]     |
+| [[Yuune Nozaki]]         | 4th  |       | [[HYPERDOLPHIN]]     |
+| [[Helios Nakachi]]       | 4th  |       | [[HYPERDOLPHIN]]     |
+| [[Ushio Sakasai]]        | 4th  |       | [[Engineering Club]] |
 
 ## Former Students:
 
@@ -59,10 +60,10 @@ The named characters associated with the school are as follows:
 ## Clubs
 To apply as a registered club at the Crown Academy, clubs must have at least five members, clearly defined goals, and meet at least once a week. 
 
-| Name                 | Description                                                                               | Location         |
-| -------------------- | ----------------------------------------------------------------------------------------- | ---------------- |
-| [[HYPERDOLPHIN]]     | Led by [[Kanzou Sugama]]. The school band, started by [[Rei Samukawa]] in his first year. | Music Room       |
-| [[Engineering Club]] | Led by [[Ushio Sakasai]]. Students here are encouraged to work on projects.               | Engineering Room |
+| Name                 | Description                                                                                                          | Location         |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[HYPERDOLPHIN]]     | Led by [[Kanzou Sugama]]. The school band, started by [[Rei Samukawa]] in his second year with [[Kiseki Ishiboshi]]. | Music Room       |
+| [[Engineering Club]] | Led by [[Ushio Sakasai]]. Students here are encouraged to work on projects to better society.                        | Engineering Room |
 
 
 
@@ -75,7 +76,7 @@ To apply as a registered club at the Crown Academy, clubs must have at least fiv
 While the Crown Academy cannot be visited in the game, [[Shinki Sakasai|Shinki]] mentions that she had attended it in the past. 
 # Etymology
 ---
-*PlaceName* is...
+*The Crown Academy* is a placeholder name.
 
 # Fun Facts
 ---

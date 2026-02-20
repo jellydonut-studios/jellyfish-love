@@ -1,5 +1,5 @@
 >[!infobox] Ushio Sakasai
->![[placeholder.png]]
+>![[Ushio Sakasai.png]]
 ><div class="label">JP Name</div> 逆井侑潮
 ><div class="section">Character Information</div>
 ><div class="label">Jellyfish</div><em>Cassiopea ornata</em>
@@ -31,7 +31,7 @@ They are also the president of the Crown Academy's [[Crown Academy|Engineering C
 *Sakasai* is written as [[The Sakasai Family#Etymology|逆井]]:
 - *See the Sakasai family page*
 *Ushio* is written as 侑潮:
-- "侑": The urge to eat (Jinmeiyo Kanji)
+- "侑": The urge to eat (*Jinmeiyo Kanji*)
 - "潮": Wave, Opportunity
 - Tbh I'm not sure what I was thinking when I made this name but I really wanted the second kanji and I suppose the first kanji also came up in japanese-names.net
 

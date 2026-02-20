@@ -15,7 +15,7 @@ aliases:
 
 > [Put some quote here]
 
-**Shinigami kun** (死神くん) is a *Morbakka virulenta*
+**Shinigami kun** (死神くん) is a *Morbakka virulenta* who became a Shinigami.
 
 
 # Physical Description
@@ -40,7 +40,7 @@ aliases:
 - Named because he was the 4th son of the Hiue family
 # Fun Facts
 ---
-- He was created after I listened to Kenishi Yonezu's "Shinigami", since I felt that the vibes fit a Giant Box Jellyfish the most. The lore just wrote itself after that.
+- He was created after I listened to Kenishi Yonezu's "[Shinigami](https://youtu.be/8nxaZ69ElEc?si=RULp5xu-0gAOVI4y)", getting the sudden urge to draw a Shinigami based off a jellyfish. After some drawing, I realized that the *M. virulenta* fit his design surprisingly well and now we are here.
 - 
 
 # Links

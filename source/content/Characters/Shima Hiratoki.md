@@ -1,5 +1,5 @@
 >[!infobox] Shima Hiratoki
->![[placeholder.png]]
+>![[Shima Hiratoki.png]]
 ><div class="label">JP Name</div>平時紫眞
 ><div class="section">Character Information</div>
 ><div class="label">Jellyfish</div><em>Atolla wyvillei</em>
