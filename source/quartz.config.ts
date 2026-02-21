@@ -25,8 +25,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Commissioner",
-        body: "Kosugi Maru",
-        code: "IBM Plex Mono",
+        body: "Noto Sans Japanese",
+        code: "Kosugi Maru",
       },
       colors: {
         lightMode: {
