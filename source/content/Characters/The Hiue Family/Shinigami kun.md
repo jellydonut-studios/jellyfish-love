@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Hiue Shirou
   - Shinigami kun
+  - Shirou Hiue
 ---
 >[!infobox] Shinigami kun
 >![[Shinigami kun.jpg]]
