@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "jellydonut-studios.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -25,8 +25,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Commissioner",
-        body: "Kosugi Maru",
-        code: "IBM Plex Mono",
+        body: "Noto Sans Japanese",
+        code: "Kosugi Maru",
       },
       colors: {
         lightMode: {
