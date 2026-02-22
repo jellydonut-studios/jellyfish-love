@@ -11,17 +11,14 @@
             "id": "13477756cd69d532",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Shinigami Brainstorming.canvas",
-                "viewState": {
-                  "x": -306.5029675220246,
-                  "y": -808.0256023877096,
-                  "zoom": -3.3306690738754696e-16
-                }
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Shinigami Brainstorming"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -191,8 +188,9 @@
   },
   "active": "13477756cd69d532",
   "lastOpenFiles": [
-    "Characters/The Hiue Family/Shinigami kun.md",
+    "Jelly Donut Studios.md",
     "Shinigami Brainstorming.canvas",
+    "Characters/The Hiue Family/Shinigami kun.md",
     "README.md",
     "Characters/The Sakasai Family/Shinki Sakasai.md",
     "Characters/The Hiue Family/Katsuo Hiue.md",

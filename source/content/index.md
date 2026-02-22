@@ -15,11 +15,6 @@ For ease of identification, jellyfish will be primarily written with their latin
 - The Jellyfish Otome Game: [[The Jellyfish Otome Game]]
 - The Shinigami that is also a Jellyfish: [[The Shinigami that is also a Jellyfish]]
 
-
-## See All Characters:
-
-![[Characters.base]]
-
 # Credits
 ---
 - TBD
