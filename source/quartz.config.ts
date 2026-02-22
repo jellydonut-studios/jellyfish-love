@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "jellydonut-studios.github.io/jellyfish-love",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Templates"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
