@@ -1,0 +1,19 @@
+{
+  "infobox-callouts@@ic-outside-padding": 20,
+  "infobox-callouts@@ic-round-corners": 10,
+  "infobox-callouts@@ic-title-typography-toggle": false,
+  "infobox-callouts@@ic-title-stylistic-sets": "\"ss01\"",
+  "infobox-callouts@@ic-title-smallcaps": false,
+  "infobox-callouts@@ic-section-background-toggle": true,
+  "infobox-callouts@@ic-section-corners": 10,
+  "infobox-callouts@@ic-section-horizontal-padding": 0,
+  "infobox-callouts@@ic-section-vertical-padding": 0.2,
+  "infobox-callouts@@ic-section-typography-toggle": false,
+  "infobox-callouts@@ic-label-alignment": "Right",
+  "infobox-callouts@@ic-label-width": 90,
+  "infobox-callouts@@ic-image-round-corners": 5,
+  "infobox-callouts@@ic-image-border": 4,
+  "infobox-callouts@@ic-section-weight": 700,
+  "infobox-callouts@@ic-section-alignment": "Center",
+  "infobox-callouts@@ic-title-margin": 0
+}

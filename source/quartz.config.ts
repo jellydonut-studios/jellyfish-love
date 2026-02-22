@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Jellyfish Love Lore",
+    pageTitle: "QJellyfish Love Lore",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
