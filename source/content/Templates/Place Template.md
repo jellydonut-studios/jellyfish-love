@@ -25,5 +25,5 @@
 ---
 - [Link to a Gallery]
 - [Link to quotes]
-#draft
+
 # Footnotes

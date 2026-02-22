@@ -24,6 +24,6 @@ _{{title}}_ was named from...
 ---
 - [Link to a Gallery]
 - [Link to quotes]
-#draft
+
 # Footnotes
 

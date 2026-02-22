@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Spoiler Alert.md",
+                "file": "templates/Character Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Spoiler Alert"
+              "title": "Character Template"
             }
           }
         ]
@@ -186,12 +186,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13477756cd69d532",
+  "active": "57a66723fb2c58fc",
   "lastOpenFiles": [
-    "Templates/Place Template.md",
-    "Templates/Media Template.md",
-    "Templates/Family Template.md",
-    "Templates/Character Template.md",
+    "templates/Family Template.md",
+    "templates/Media Template.md",
+    "templates/Place Template.md",
+    "templates/Spoiler Alert.md",
+    "templates/Character Template.md",
     "index.md",
     "Jelly Donut Studios.md",
     "Shinigami Brainstorming.canvas",
@@ -214,7 +215,6 @@
     "Characters/The Nakachi Family/Helios Nakachi.md",
     "Characters/The Kaburagi Family/The Kaburagi Family.md",
     "Characters/The Nakachi Family/The Nakachi Family.md",
-    "Templates/Spoiler Alert.md",
     "Characters/The Hiue Family/The Hiue Family.md",
     "Images/Shinigami kun.jpg",
     "Images/Shima Hiratoki.png",
