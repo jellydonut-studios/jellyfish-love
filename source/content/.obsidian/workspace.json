@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Templates/Spoiler Alert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Spoiler Alert"
             }
           }
         ]
@@ -188,6 +188,11 @@
   },
   "active": "13477756cd69d532",
   "lastOpenFiles": [
+    "Templates/Place Template.md",
+    "Templates/Media Template.md",
+    "Templates/Family Template.md",
+    "Templates/Character Template.md",
+    "index.md",
     "Jelly Donut Studios.md",
     "Shinigami Brainstorming.canvas",
     "Characters/The Hiue Family/Shinigami kun.md",
@@ -195,7 +200,6 @@
     "Characters/The Sakasai Family/Shinki Sakasai.md",
     "Characters/The Hiue Family/Katsuo Hiue.md",
     "Characters/The Hiue Family/Saburou Hiue.md",
-    "index.md",
     "Images/Pasted image 20260221005250.png",
     "Media/The Jellyfish Otome Game.md",
     "Media/The Shinigami that is also a Jellyfish.md",
@@ -210,10 +214,6 @@
     "Characters/The Nakachi Family/Helios Nakachi.md",
     "Characters/The Kaburagi Family/The Kaburagi Family.md",
     "Characters/The Nakachi Family/The Nakachi Family.md",
-    "Templates/Character Template.md",
-    "Templates/Family Template.md",
-    "Templates/Media Template.md",
-    "Templates/Place Template.md",
     "Templates/Spoiler Alert.md",
     "Characters/The Hiue Family/The Hiue Family.md",
     "Images/Shinigami kun.jpg",

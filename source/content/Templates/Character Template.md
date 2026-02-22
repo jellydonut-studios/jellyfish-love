@@ -40,5 +40,6 @@ _FirstName_ is written as [FirstName in Japanese]:
 - [Link to a Gallery]
 - [Link to quotes]
 
+#draft
 # Footnotes
 

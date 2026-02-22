@@ -27,6 +27,6 @@ _LastName_ is written as [LastName in Japanese]
 ---
 - [Link to a Gallery]
 - [Link to quotes]
-
+#draft
 # Footnotes
 
