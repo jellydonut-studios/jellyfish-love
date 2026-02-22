@@ -10,14 +10,14 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Jellyfish Love Lore",
-    pageTitleSuffix: "(Still Under Construction!)",
+    pageTitleSuffix: " Jellyfish Love!",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "jellydonut-studios.github.io/jellyfish-love",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
