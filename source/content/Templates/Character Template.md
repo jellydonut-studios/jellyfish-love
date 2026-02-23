@@ -24,6 +24,9 @@
 # Relationships
 --- 
 
+# Gallery
+---
+
 # Etymology
 ---
 _LastName_ is written as [LastName in Japanese]

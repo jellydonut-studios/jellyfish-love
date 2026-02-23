@@ -36,7 +36,7 @@ The named characters associated with the school are as follows:
 | [[Achlys Ortega]]        | 1st  |       |                      |
 | [[Luis Kaburagi]]        | 1st  |       |                      |
 | [[Katsuo Hiue]]          | 1st  |       |                      |
-| [Taco kun]               | 3rd  |       | Student Council      |
+| [[Taco kun]]             | 3rd  |       | Student Council      |
 | Kita [Last Name Pending] | 3rd  |       |                      |
 | [[Kanzou Sugama]]        | 4th  |       | [[HYPERDOLPHIN]]     |
 | [[Kiseki Ishiboshi]]     | 4th  |       | [[HYPERDOLPHIN]]     |

@@ -1,5 +1,5 @@
 >[!infobox] Shinki Sakasai
->![[placeholder.png]]
+>![[oh no shinki.jpg]]
 ><div class="label">JP Name</div>逆井心妃
 ><div class="section">Character Information</div>
 ><div class="label">Jellyfish</div><em>Cassiopea ornata</em>
@@ -45,6 +45,8 @@ _Shinki_ is written as 心妃:
 # Links
 ---
 - [Link to a Gallery]
+
+
 - [Link to quotes]
 
 #sakasaike #characters
