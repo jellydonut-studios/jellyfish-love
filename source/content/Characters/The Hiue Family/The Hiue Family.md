@@ -35,12 +35,12 @@ Unnamed: Katsuo's Grandfather, Katsuo's 3 Grandmothers (who I will name A, B, an
 ### A
 - [[Tarou Hiue]]:  Strove to stop the tradition altogether. He was headstrong, overly idealistic, and surprisingly kind despite everything.
 - [[Aiko Hiue]]: Felt strongly about not continuing the tradition. Almost like the girl version of Tarou, just had more direction when it came to her plans.
-- [[Saburou Hiue]]: Never dreamed for a life past adulthood, and strove to live his life surrounded by corals before dying on his own terms. 
+- [[Saburou Hiue]]: Supported Tarou. Was considered unapproachable thanks to his skillful use of poisons.
 - [[Oko Hiue]]: Incredibly two-faced and deceptive (A bit of an ore-sama). Wanted to survive but also found the idea of heading the family thrilling. Fought often with Jirou.
 
 ### B
 - [[Jirou Hiue]]: Fought to stay alive and inherit the family. Was the most ruthless out of all the siblings.
-- [[Uko Hiue]]: Was incredibly lonely, and wanted to find connection in the little moments between murder attempts
+- [[Uko Hiue]]: Was incredibly lonely, and was desperate to find connection in the little moments between murder attempts.
 - [[Eko Hiue]]: Cold and stoic. Rarely showed emotion and silently observed her surroundings before striking.
 - [[Shinigami kun]]: Wasn't all that strong or aggressive compared to his siblings but was cunning and well-spoken. Often incited fights between his siblings to save himself.
 

@@ -19,9 +19,9 @@ Compared to his other siblings, Saburou as a jellyfish is longer and has a perma
 As a human, he has sharp eyes and a visible burn scar on his left cheek. He has dark, tan skin and long, jet black hair that is typically kept in a braid. As with the other members of the Hiue family, he has two tufts of hair on the top of his head that resemble horns.
 # Personality
 ---
-Saburou has taken a rather pessimistic outlook on life, apathetic to matters that don't concern him and keeping to himself when he can. He chooses to absorb himself into coral husbandry, obsessively studying them and their poisons to protect himself. 
+Saburou has taken a rather pessimistic outlook on life, apathetic to matters that don't concern him and keeping to himself when he can. He chose to absorb himself into coral husbandry, obsessively studying them and their poisons as a passion and a method of self-preservation.
 
-Unlike his other siblings, Saburou isn't particularly aggressive or conniving, satisfied with living as passive a life as he can. 
+Unlike his other siblings, Saburou wasn't particularly aggressive or conniving, satisfied with living as passive a life as he can. 
 # Story
 ---
 Saburou strobilated on XX49, after his sister [[Aiko Hiue|Aiko]]. His first introduction to the Hiue family's ruthless tradition was when he was four years old, where his half brother [[Jirou Hiue|Jirou]] attempted to kill him with a coral. Saburou miraculously managed to survive thanks to his mother insisting on micro dosing her children with poison. 
@@ -46,7 +46,7 @@ Out of anyone in the family, Saburou considered Tarou the most trustworthy.
 > [!warning]+ Spoiler Warning!
 > This section contains spoilers for [[The Shinigami that is also a Jellyfish]]. You have been warned!
 
- In life, Saburou and Shinigami kun (Known as [[Shinigami kun|Shirou]]) were the closest out of the 11 Hiue siblings. 
+ In life, Saburou and Shinigami kun ([[Shinigami kun|Shirou]]) were the closest out of the 11 Hiue siblings. 
  When he was 7 years old, Shirou made an attempt on his life- nearly succeeding. However, they both came to understand how they wanted more from their lives than inheriting the family, and became friends instead. 
 
 While Saburou still attempted murder him for the sake of appearances, he considered Shirou the only jellyfish who truly understood him.

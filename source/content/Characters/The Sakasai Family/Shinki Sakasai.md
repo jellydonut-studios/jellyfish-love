@@ -20,6 +20,8 @@
 
 # Story
 ---
+Shinki 
+## [[The Shinigami that is also a Jellyfish]]
 
 # Relationships
 --- 

@@ -9,7 +9,7 @@
 ><div class="label">Age</div> 18 years <div />
 ><div class="label">Strobilation Day</div>N/A<div />
 ><div class="label">Gender</div>Female<div />
-><div class="label">Status</div>Deceased (Yuurei)
+><div class="label">Status</div>See the story section
 
 > [Put some quote here]
 

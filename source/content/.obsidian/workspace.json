@@ -11,14 +11,40 @@
             "id": "13477756cd69d532",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "templates/Character Template.md",
-                "mode": "source",
-                "source": true
+                "file": "Shinigami Brainstorming.canvas",
+                "viewState": {
+                  "x": 123.60080936551492,
+                  "y": -1502.8268619232201,
+                  "zoom": -1.1450906444743392
+                }
               },
-              "icon": "lucide-file",
-              "title": "Character Template"
+              "icon": "lucide-layout-dashboard",
+              "title": "Shinigami Brainstorming"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b434c7f77bdbc8f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9eb2aeddb8e790c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Worldbuilding Notes.canvas",
+                "viewState": {
+                  "x": 518.2858045240945,
+                  "y": -1150.8768271587717,
+                  "zoom": -0.28833205035026593
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Worldbuilding Notes"
             }
           }
         ]
@@ -186,44 +212,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57a66723fb2c58fc",
+  "active": "a9eb2aeddb8e790c",
   "lastOpenFiles": [
+    "Characters/The Hiue Family/Shinigami kun.md",
+    "Shinigami Brainstorming.canvas",
+    "Shinigami UI Brainstorm.canvas",
+    "Worldbuilding Notes.canvas",
+    "TODO.canvas",
+    "Untitled.md",
+    "Images/Pasted image 20260222204906.png",
+    "Characters/The Sakasai Family/Shinki Sakasai.md",
+    "Places/Crown Academy.md",
+    "Media/The Jellyfish Otome Game.md",
+    "Jelly Donut Studios.md",
+    "Characters/The Hiue Family/The Hiue Family.md",
+    "Characters/The Hiue Family/Saburou Hiue.md",
+    "Characters/The Nozaki Family/Yuune Nozaki.md",
+    "templates/Character Template.md",
     "templates/Family Template.md",
     "templates/Media Template.md",
     "templates/Place Template.md",
     "templates/Spoiler Alert.md",
-    "templates/Character Template.md",
     "index.md",
-    "Jelly Donut Studios.md",
-    "Shinigami Brainstorming.canvas",
-    "Characters/The Hiue Family/Shinigami kun.md",
     "README.md",
-    "Characters/The Sakasai Family/Shinki Sakasai.md",
     "Characters/The Hiue Family/Katsuo Hiue.md",
-    "Characters/The Hiue Family/Saburou Hiue.md",
     "Images/Pasted image 20260221005250.png",
-    "Media/The Jellyfish Otome Game.md",
     "Media/The Shinigami that is also a Jellyfish.md",
     "Places/HYPERDOLPHIN.md",
-    "Places/Crown Academy.md",
     "Images/Hiue Family Tree.png",
     "Characters/Shima Hiratoki.md",
     "Characters/The Sakasai Family/Ushio Sakasai.md",
     "Characters/The Sakasai Family/The Sakasai Family.md",
-    "Characters/The Nozaki Family/Yuune Nozaki.md",
     "Characters/The Nozaki Family/The Nozaki Family.md",
     "Characters/The Nakachi Family/Helios Nakachi.md",
     "Characters/The Kaburagi Family/The Kaburagi Family.md",
-    "Characters/The Nakachi Family/The Nakachi Family.md",
-    "Characters/The Hiue Family/The Hiue Family.md",
     "Images/Shinigami kun.jpg",
     "Images/Shima Hiratoki.png",
     "Images/placeholder.png",
     "Images/Rei Samukawa.png",
-    "Timeline/Grand Timeline.md",
     "Characters/Characters.base",
     "Images/Ushio Sakasai.png",
-    "TODO.canvas",
     "Images/Uploaded Images.base",
     "LICENSE",
     "source/quartz/plugins/emitters/tagPage.tsx",
@@ -235,7 +263,6 @@
     "source/quartz/plugins/transformers/lastmod.ts",
     "source/quartz/static/icon.png",
     "source/quartz/static/og-image.png",
-    "source/docs/images/quartz-layout-tablet.png",
     "source/content/TODO.canvas",
     "source/content/Shinigami Brainstorming.canvas",
     "content/source/content/TODO.canvas",

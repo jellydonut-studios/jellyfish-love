@@ -16,6 +16,11 @@ You play as [[Ponyo Shinawa]], a high school girl attending her first year at th
 
 # Development
 --- 
+Development for the game started during the Summer of 2022, though after a computer-breaking error that caused all of the data to be wiped, it has not left the planning stage as of yet. 
+
+A joke spin-off game was announced that same year, but was unfortunately cancelled thanks to the wipe.
+
+The project went on hiatus from around 2024, and it has since stayed that way. Plans to go back to it have not been made as of yet, but as of the present it is not cancelled.
 
 # Etymology
 ---
