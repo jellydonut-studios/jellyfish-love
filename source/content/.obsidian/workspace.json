@@ -36,7 +36,8 @@
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a821efd533cfd360",
@@ -71,7 +72,8 @@
               "title": "Character Template"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,8 +238,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13477756cd69d532",
+  "active": "a0fde3dd3130c548",
   "lastOpenFiles": [
+    "Characters/The Sakasai Family/Shinki Sakasai.md",
+    "Templates/Character Template.md",
+    "index.md",
+    "conflict-files-obsidian-git.md",
     "Timeline/Grand Timeline.md",
     "Worldbuilding Notes.canvas",
     "Shinigami UI Brainstorm.canvas",
@@ -264,9 +270,7 @@
     "Timeline/Timeline Events.md",
     "Shinigami Brainstorming.canvas",
     "README.md",
-    "Characters/The Sakasai Family/Shinki Sakasai.md",
     "Media/The Shinigami that is also a Jellyfish.md",
-    "index.md",
     "Characters/The Hiue Family/Saburou Hiue.md",
     "Characters/The Hiue Family/Katsuo Hiue.md",
     "Characters/The Hiue Family/The Hiue Family.md",
@@ -275,8 +279,6 @@
     "Images/Hiue Family Tree.png",
     "Images/saburou hiue doodle.PNG",
     "Media/The Jellyfish Otome Game.md",
-    "The Jellyfish Otome Game.md",
-    "Places/HYPERDOLPHIN.md",
     "Characters/Characters.base",
     "TODO.canvas",
     "Images/Uploaded Images.base",
