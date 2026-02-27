@@ -10,10 +10,10 @@
   "infobox-callouts@@ic-section-vertical-padding": 0.2,
   "infobox-callouts@@ic-section-typography-toggle": false,
   "infobox-callouts@@ic-label-alignment": "Right",
-  "infobox-callouts@@ic-label-width": 90,
   "infobox-callouts@@ic-image-round-corners": 5,
   "infobox-callouts@@ic-image-border": 4,
   "infobox-callouts@@ic-section-weight": 700,
   "infobox-callouts@@ic-section-alignment": "Center",
-  "infobox-callouts@@ic-title-margin": 0
+  "infobox-callouts@@ic-title-margin": 0,
+  "infobox-callouts@@ic-width": 350
 }

@@ -1,5 +1,5 @@
 >[!infobox] Helios Nakachi
->![[placeholder.png]]
+>![[Helios Nakachi.png]]
 ><div class="label">JP Name</div>[JP Name]
 ><div class="section">Character Information</div>
 ><div class="label">Jellyfish</div><em>Jellyfish Latin Name</em>
