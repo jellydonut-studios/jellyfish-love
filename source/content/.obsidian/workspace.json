@@ -43,14 +43,17 @@
             "id": "a0fde3dd3130c548",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Characters/Kanzou Sugama.md",
-                "mode": "source",
-                "source": false
+                "file": "Shinigami Brainstorming.canvas",
+                "viewState": {
+                  "x": 1019.3128792103557,
+                  "y": -932.9316708922155,
+                  "zoom": -0.5293103491860183
+                }
               },
-              "icon": "lucide-file",
-              "title": "Kanzou Sugama"
+              "icon": "lucide-layout-dashboard",
+              "title": "Shinigami Brainstorming"
             }
           }
         ],
@@ -242,6 +245,7 @@
   },
   "active": "a0fde3dd3130c548",
   "lastOpenFiles": [
+    "Characters/Kanzou Sugama.md",
     "Images/Yoshinori Sakasai.png",
     "Characters/The Sakasai Family/Yoshinori Sakasai.md",
     "Pasted image 20260224162026.png",
@@ -255,7 +259,6 @@
     "Images/Pasted image 20260222204906.png",
     "Images/Pasted image 20260221005250.png",
     "Characters/The Sakasai Family/Shinki Sakasai.md",
-    "Characters/Kanzou Sugama.md",
     "templates/Media Template.md",
     "templates/Spoiler Alert.md",
     "templates/Place Template.md",
