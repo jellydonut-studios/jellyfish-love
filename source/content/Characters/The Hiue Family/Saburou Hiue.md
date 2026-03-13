@@ -62,8 +62,10 @@ _Hiue_ is written as [[The Hiue Family#Etymology|火上]]:
 - Named because he was the third son of the Hiue family.
 # Fun Facts
 ---
-- Saburou and Katsuo are the only two characters that share their names with fish.
-	- This was a complete coincidence on both their parts. 
+- Saburou's name happens to share a name and reading with a fish, that being the *Occella iburia*.
+	- He shares this trait with his brother, Shirou (a fish of the same genus) 
+	- His nephew, Katsuo, also seems to be named after a fish. However, it is only by reading.
+	- All of this was unintentional.
 - 
 
 # Links

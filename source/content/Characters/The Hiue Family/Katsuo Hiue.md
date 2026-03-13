@@ -35,8 +35,8 @@ _Katsuo_ is written as 勝雄:
 	- I honestly just picked a cool name off of behindthename.com when I was making him but it stuck because I think it's adorable.
 # Fun Facts
 ---
-- Saburou and Katsuo are the only two characters that share their names with fish.
-	- This was a complete coincidence on both their parts. 
+- Katsuo happens to share his name with a fish (that being the _Katsuwonus pelamis_)
+	- This was a complete coincidence on his part. However, they are written with different kanji.
 - He is the first Hiue to attend the [[Crown Academy]] for the last three generations
 - His concept art is verrry different from his current design :)
 - 

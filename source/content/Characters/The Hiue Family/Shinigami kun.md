@@ -40,6 +40,10 @@ _Shirou_ is written as 四郎:
 - Named because he was the 4th son of the Hiue family
 # Fun Facts
 ---
+- Shinigami's real name (Shirou) happens to share a name and reading with a fish, that being the *Occella kuronumai*.
+	- He shares this trait with his brother, Saburou (a fish of the same genus) 
+	- His nephew, Katsuo, also seems to be named after a fish. However, it is only by reading.
+	- All of this was unintentional.
 - He was created after I listened to Kenishi Yonezu's "[Shinigami](https://youtu.be/8nxaZ69ElEc?si=RULp5xu-0gAOVI4y)", getting the sudden urge to draw a Shinigami based off a jellyfish. After some drawing, I realized that the *M. virulenta* fit his design surprisingly well and now we are here.
 - 
 
