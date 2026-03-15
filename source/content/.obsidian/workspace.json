@@ -15,9 +15,9 @@
               "state": {
                 "file": "Shinigami Brainstorming.canvas",
                 "viewState": {
-                  "x": -2292,
-                  "y": -1589,
-                  "zoom": 0
+                  "x": -1963.0175857979475,
+                  "y": -791.1273418068829,
+                  "zoom": -0.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -80,8 +80,7 @@
               "title": "The Hiue Family"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,8 +245,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12d20281c57d2ef4",
+  "active": "13477756cd69d532",
   "lastOpenFiles": [
+    "Characters/The Hiue Family/The Hiue Family.md",
     "Characters/The Hiue Family/Shinigami kun.md",
     "Media/The Shinigami that is also a Jellyfish.md",
     "Characters/The Hiue Family/Saburou Hiue.md",
@@ -287,7 +287,6 @@
     "Characters/The Kaburagi Family/Futao Kaburagi.md",
     "Characters/Taco kun.md",
     "Characters/Sui Mizutsuki.md",
-    "Characters/Shimako Yanagi.md",
     "Characters/Characters.base",
     "TODO.canvas",
     "Images/Uploaded Images.base",
