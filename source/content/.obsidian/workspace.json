@@ -15,9 +15,9 @@
               "state": {
                 "file": "Shinigami Brainstorming.canvas",
                 "viewState": {
-                  "x": -2359.605769610953,
-                  "y": -192.9626110169354,
-                  "zoom": -0.40781249896159005
+                  "x": -854.9981719070317,
+                  "y": -345.9339901492812,
+                  "zoom": -0.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -72,12 +72,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/The Hiue Family/The Hiue Family.md",
+                "file": "private/Planning a mystery game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Hiue Family"
+              "title": "Planning a mystery game"
             }
           }
         ],
@@ -248,12 +248,14 @@
   },
   "active": "12d20281c57d2ef4",
   "lastOpenFiles": [
-    "Characters/The Hiue Family/Katsuo Hiue.md",
     "Characters/The Hiue Family/The Hiue Family.md",
-    "Characters/The Hiue Family/Saburou Hiue.md",
+    "private/Planning a mystery game.md",
+    "private",
     "Shinigami Brainstorming.canvas",
     "Characters/The Hiue Family/Shinigami kun.md",
     "Media/The Shinigami that is also a Jellyfish.md",
+    "Characters/The Hiue Family/Saburou Hiue.md",
+    "Characters/The Hiue Family/Katsuo Hiue.md",
     "Shinigami UI Brainstorm.canvas",
     "Characters/The Sakasai Family/Yoshinori Sakasai.md",
     "Characters/Kanzou Sugama.md",
@@ -296,7 +298,6 @@
     "source/quartz/plugins/transformers/toc.ts",
     "source/quartz/i18n/locales/ro-RO.ts",
     "source/quartz/plugins/transformers/roam.ts",
-    "source/quartz/plugins/transformers/oxhugofm.ts",
     "source/content/TODO.canvas",
     "source/content/Shinigami Brainstorming.canvas",
     "content/source/content/TODO.canvas",
