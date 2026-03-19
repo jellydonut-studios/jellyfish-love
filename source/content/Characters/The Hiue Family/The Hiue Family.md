@@ -10,18 +10,25 @@ The **Hiue Family** (火上家) is a clan of Giant Box Jellyfish (*Morbakka viru
 
 # History
 ---
- The Hiue family's history dates back all the way to the old ages (which ig is the age before Jellyfish become dominant)[^1], known for their speed and potent venom. Historically, the Hiue family would protect smaller jellyfish species from fish. Nowadays they fight other jellyfish for the glory of the country or whatever.
+The Hiue family's history dates back all the way to the old ages (which ig is the age before Jellyfish become dominant)[^1], known for their speed and potent venom. According to myth, they were the originally jellyfish in the shape of fireballs that appeared in front of humans to scare them off (? i still need to read more on this).
 
-To be competitive in the fight for control in the Jellyfish army, the Hiue family started a tradition where no one could inherit the family unless only one child of the generation remained.
+Historically, the Hiue family protected smaller jellyfish species from larger fish and predators. Nowadays they fight other jellyfish for the glory of the country or whatever.
 
-Outwardly closer to the [[The Kaburagi Family]] than the Yamaguchi family in present times, but the Box Jellyfish and Crown Jellyfish have historically never gotten along.
+To be competitive in the fight for control in the Jellyfish army, the Hiue family started a tradition where no one could inherit the family unless only one child of the next generation remained.
+
+[[The Kaburagi Family]] seems to have allied themselves with the Hiue family, ratherthan the Yamaguchi family in present times, but the Box Jellyfish and Crown Jellyfish have historically never gotten along politically.
+
+Until [[Katsuo Hiue|Katsuo]], pretty much every Hiue attended the Box Jellyfish Private School
+
 ## The Hiue Kami
-Representative of the Hiue family. Has something to do with fire and candles and stuff ig. 
-Enforced the tradition(?). (Either that or tradition and being bound to honour was strong enough)
 
-[[Shinigami kun|Shinigami kun]] is currently working for them.
+Representative Kami of the Hiue family. While rumors of her exploits are shrouded and myth and mystery, it's reported that her last act of chivalry to jellyfishkind was flying through a massive sunfish so fast, her body burst into flames, and disappeared. 
+
+Nowadays, she keeps track of jellyfish souls in Jellyfish Hell using candles- a novel invention that made management of fate and lifespans a lot easier. Thanks to the sheer quantity of the task, she elicits the aid of her descendants and a few qualified passed jellyfish to care for and protect the candles. 
+
 
 ## 40s Generation
+
 >*(TODO: Play by play recap of what everyone did to each other*)
 
 # Members

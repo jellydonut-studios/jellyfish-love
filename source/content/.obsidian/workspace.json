@@ -15,9 +15,9 @@
               "state": {
                 "file": "Shinigami Brainstorming.canvas",
                 "viewState": {
-                  "x": -1963.0175857979475,
-                  "y": -791.1273418068829,
-                  "zoom": -0.333333333333333
+                  "x": -2359.605769610953,
+                  "y": -192.9626110169354,
+                  "zoom": -0.40781249896159005
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -80,7 +80,8 @@
               "title": "The Hiue Family"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -245,14 +246,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13477756cd69d532",
+  "active": "12d20281c57d2ef4",
   "lastOpenFiles": [
+    "Characters/The Hiue Family/Katsuo Hiue.md",
     "Characters/The Hiue Family/The Hiue Family.md",
+    "Characters/The Hiue Family/Saburou Hiue.md",
+    "Shinigami Brainstorming.canvas",
     "Characters/The Hiue Family/Shinigami kun.md",
     "Media/The Shinigami that is also a Jellyfish.md",
-    "Characters/The Hiue Family/Saburou Hiue.md",
-    "Characters/The Hiue Family/Katsuo Hiue.md",
-    "Shinigami Brainstorming.canvas",
     "Shinigami UI Brainstorm.canvas",
     "Characters/The Sakasai Family/Yoshinori Sakasai.md",
     "Characters/Kanzou Sugama.md",
@@ -286,7 +287,6 @@
     "Characters/The Kaburagi Family/Kazuo Kaburagi.md",
     "Characters/The Kaburagi Family/Futao Kaburagi.md",
     "Characters/Taco kun.md",
-    "Characters/Sui Mizutsuki.md",
     "Characters/Characters.base",
     "TODO.canvas",
     "Images/Uploaded Images.base",

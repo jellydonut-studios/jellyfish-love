@@ -32,8 +32,12 @@ To ensure he made it to adulthood, Saburou stuck a deal with his older brother [
 
 As per the stipulations of their agreement, Saburou spent the evening of his 18th birthday alone, drinking poison and dying in the presence of his corals.  
 ## [[The Shinigami that is also a Jellyfish]]
-Saburou isn't physically present in the game, but [[Shinigami kun]] mentions him by name in a flashback. 
- 
+
+> [!warning]+ Spoiler Warning!
+> This section contains spoilers for [[The Shinigami that is also a Jellyfish]]. You have been warned!
+
+> [!WARNING] Spoilers End Here  
+
 # Relationships
 --- 
 ## [[Tarou Hiue]]
