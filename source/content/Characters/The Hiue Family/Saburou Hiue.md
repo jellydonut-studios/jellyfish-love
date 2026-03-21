@@ -16,21 +16,24 @@
 ---
 Compared to his other siblings, Saburou as a jellyfish is longer and has a permanent scar on his bell. 
 
-As a human, he has sharp eyes and a visible burn scar on his left cheek. He has dark, tan skin and long, jet black hair that is typically kept in a braid. As with the other members of the Hiue family, he has two tufts of hair on the top of his head that resemble horns.
+As a human, he has sharp eyes and a visible "sting" scar starting from his left cheek, spreading down to his neck, top torso, shoulder, forearm, inside of his palm, and on the bottom of his middle and ring finger. The pads of all his fingers are also rather rough, thanks to his work with anthozoans.
+
+He has dark, tan skin and long, jet black hair that is typically kept in a braid. As with the other members of the Hiue family, he has two tufts of hair on the top of his head that resemble horns.
 # Personality
 ---
-Saburou has taken a rather pessimistic outlook on life, apathetic to matters that don't concern him and keeping to himself when he can. He chose to absorb himself into coral husbandry, obsessively studying them and their poisons as a passion and a method of self-preservation.
+Saburou has taken a rather pessimistic outlook on life, apathetic to matters that don't concern him and keeping to himself when he can. He chose to absorb himself into anthozoan husbandry, obsessively studying them and their poisons as a passion and a method of self-preservation. 
+While he specializes in sea anemone venom, he enjoys the
 
-Unlike his other siblings, Saburou wasn't particularly aggressive or conniving, satisfied with living as passive a life as he can. 
+Unlike his other siblings, Saburou wasn't particularly aggressive or conniving, satisfied with living as passive a life as he was allowed to live. 
 # Story
 ---
 Saburou strobilated on XX49, after his sister [[Aiko Hiue|Aiko]]. His first introduction to the Hiue family's ruthless tradition was when he was four years old, where his half brother [[Jirou Hiue|Jirou]] attempted to kill him with a coral. Saburou miraculously managed to survive thanks to his mother insisting on micro dosing her children with poison. 
 
-Rather of developing a lifelong fear of them, Saburou became enamored with corals, deciding that he'd dedicate his life to cultivating and caring for beautiful and dangerous corals. He came to realize that living would come at the cost of his passion, and so resigned himself to death when he became an adult. 
+Rather of developing a lifelong fear of them, Saburou became enamored with corals, deciding that he'd dedicate his life to cultivating and caring for beautiful and dangerous anthozoans. He came to realize that living would come at the cost of his passion, and so resigned himself to death when he became an adult. 
 
 To ensure he made it to adulthood, Saburou stuck a deal with his older brother [[Tarou Hiue|Tarou]], granting him protection until he turned 18 in exchange for helping him inherit the family. 
 
-As per the stipulations of their agreement, Saburou spent the evening of his 18th birthday alone, drinking poison and dying in the presence of his corals.  
+As per the stipulations of their agreement, Saburou spent the evening of his 18th birthday alone, drinking poison and dying in the presence of his specimens.  
 ## [[The Shinigami that is also a Jellyfish]]
 
 > [!warning]+ Spoiler Warning!
