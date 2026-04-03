@@ -1,5 +1,5 @@
 >[!infobox] Saburou Hiue
->![[saburou hiue doodle.PNG]]
+>![[Pasted image 20260403181820.png]]
 ><div class="label">JP Name</div>火上三郎
 ><div class="section">Character Information</div>
 ><div class="label">Jellyfish</div><em>Morbakka virulenta</em>
@@ -16,7 +16,8 @@
 ---
 Compared to his other siblings, Saburou as a jellyfish is longer and has a permanent scar on his bell. 
 
-As a human, he has sharp eyes and a visible "sting" scar starting from his left cheek, spreading down to his neck, top torso, shoulder, forearm, inside of his palm, and on the bottom of his middle and ring finger. The pads of all his fingers are also rather rough, thanks to his work with anthozoans.
+As a human, he has sharp eyes and a visible "sting" scar resembling a "blotch" from his lip to the bottom of his chin. Mostly covered by clothes, he also has another large blotch-like scar on his chest. 
+Additionally pads of all his fingers are also rather rough, thanks to his work with anthozoans.
 
 He has dark, tan skin and long, jet black hair that is typically kept in a braid. As with the other members of the Hiue family, he has two tufts of hair on the top of his head that resemble horns.
 # Personality
@@ -43,10 +44,6 @@ As per the stipulations of their agreement, Saburou spent the evening of his 18t
 
 # Relationships
 --- 
-## [[Tarou Hiue]]
-Saburou grew up thinking his brother too overly idealistic to complete what he set out to do, but nonetheless still respected him for sticking to his own truth. Though he never truly believed that Tarou would be able to end the tradition, Shirou opted to help him deal with their siblings in exchange for his protection- deciding that he'd have the best chance of any actual partnership with Tarou.
-
-Out of anyone in the family, Saburou considered Tarou the most trustworthy.
 
 ## [[Shinigami kun]]
 

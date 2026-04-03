@@ -1,8 +1,7 @@
 {
   "infobox-callouts@@ic-outside-padding": 20,
   "infobox-callouts@@ic-round-corners": 10,
-  "infobox-callouts@@ic-title-typography-toggle": false,
-  "infobox-callouts@@ic-title-stylistic-sets": "\"ss01\"",
+  "infobox-callouts@@ic-title-stylistic-sets": "\"ss04\"",
   "infobox-callouts@@ic-title-smallcaps": false,
   "infobox-callouts@@ic-section-background-toggle": true,
   "infobox-callouts@@ic-section-corners": 10,
@@ -15,5 +14,12 @@
   "infobox-callouts@@ic-section-weight": 700,
   "infobox-callouts@@ic-section-alignment": "Center",
   "infobox-callouts@@ic-title-margin": 0,
-  "infobox-callouts@@ic-width": 350
+  "infobox-callouts@@ic-width": 350,
+  "infobox-callouts@@ic-infobox-color@@dark": "#00000070",
+  "infobox-callouts@@ic-section-background-color@@dark": "#743BA9",
+  "infobox-callouts@@ic-section-background-color@@light": "#743BA9",
+  "infobox-callouts@@ic-image-border-color@@light": "#743BA9",
+  "infobox-callouts@@ic-image-border-color@@dark": "#743BA9",
+  "infobox-callouts@@ic-title-size": 1.4,
+  "infobox-callouts@@ic-section-border": null
 }
