@@ -22,7 +22,7 @@ As a human, Gorou is an anxious-looking person with tan skin and large, nervous 
 # Personality
 ---
 
-Gorou was one of the more anxious and timid children in his generation, crying when 
+Gorou was one of the more anxious and timid children in his generation, crying easily when faced with scary situations and quick to freeze. This was because his mother isolated him from the others, and shielded him from much of the Hiue bloodshed.
 
 # Story
 ---

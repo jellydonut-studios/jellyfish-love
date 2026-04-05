@@ -9,5 +9,6 @@
   "infoboxes@@ic-section-style": "ic-section-bg-margins",
   "infoboxes@@ic-section-vertical-padding": 0.3,
   "infoboxes@@ic-property-separation": "ic-property-separation-none",
-  "infoboxes@@ic-infobox-color-dark": "var(--background-secondary)"
+  "infoboxes@@ic-infobox-color-dark": "var(--background-secondary)",
+  "infoboxes@@ic-title-horizontal-padding": 0.2
 }
