@@ -1,8 +1,8 @@
->[!infobox] The Nozaki Family
+> [!infobox]The Nozaki Family
 >![[placeholder.png]]
-><div class="label">JP Name</div>野崎家
-><div class="section">Family Information</div>
-><div class="label">Jellyfish</div><em>Cyanea nozakii</em>
+> JP Name ->野崎家
+> // Family Information
+> Jellyfish -> *Cyanea nozakii*
 
 > [Put some quote here]
 

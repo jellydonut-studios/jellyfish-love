@@ -1,12 +1,12 @@
->[!infobox] Ako Yanagi
+> [!infobox] Ako Yanagi
 >![[placeholder.png]]
-><div class="label">JP Name</div>柳赤
-><div class="section">Character Information</div>
-><div class="label">Jellyfish</div><em>Chrysaora pacifica</em>
-><div class="label">Age</div> 0 years <div />
-><div class="label">Strobilation Day</div>N/A<div />
-><div class="label">Gender</div>N/A<div />
-><div class="label">Status</div>Alive
+> JP Name -> 柳赤
+> // Character Information
+> Jellyfish -> *Chrysaora pacifica*
+> Age -> 16 years
+> Strobilation Day -> N/A
+> Gender -> Female
+> Status -> Alive
 
 > [Put some quote here]
 

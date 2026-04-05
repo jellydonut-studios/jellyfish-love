@@ -1,15 +1,15 @@
 > [!WARNING]+ Spoiler Warning!
 > This entry contains spoilers for the Jellyfish Otome Game. You have been warned!
 
->[!infobox] Yuune Nozaki
->![[Yuune Nozaki.png]]
-><div class="label">JP Name</div> 野崎幽音
-><div class="section">Character Information</div>
-><div class="label">Jellyfish</div><em>Cyanea nozakii</em><div />
-><div class="label">Age</div> 18 years <div />
-><div class="label">Strobilation Day</div>N/A<div />
-><div class="label">Gender</div>Female<div />
-><div class="label">Status</div>See the story section
+> [!infobox] Yuune Nozaki
+> ![[placeholder.png]]
+> JP Name -> 野崎幽音
+> // Character Information
+> Jellyfish -> *Cyanea nozakii*
+> Age -> 18 years
+> Strobilation Day -> XX70
+> Gender -> Female
+> Status -> See [[Yuune Nozaki#Story|Story]]
 
 > [Put some quote here]
 

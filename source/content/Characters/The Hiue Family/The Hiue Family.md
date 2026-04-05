@@ -1,8 +1,8 @@
->[!infobox] The Hiue Family
+> [!infobox]The Hiue Family
 >![[placeholder.png]]
-><div class="label">JP Name</div>火上家
-><div class="section">Family Information</div>
-><div class="label">Jellyfish</div><em>Morbakka virulenta</em>
+> JP Name ->火上家
+> // Family Information
+> Jellyfish -> *Morbakka virulenta*
 
 > [Put some quote here]
 
@@ -16,9 +16,9 @@ Historically, the Hiue family protected smaller jellyfish species from larger fi
 
 To be competitive in the fight for control in the Jellyfish army, the Hiue family started a tradition where no one could inherit the family unless only one child of the next generation remained.
 
-[[The Kaburagi Family]] seems to have allied themselves with the Hiue family, ratherthan the Yamaguchi family in present times, but the Box Jellyfish and Crown Jellyfish have historically never gotten along politically.
+Though [[The Kaburagi Family]] have outwardly had a good relationship with the Yamaguchi family spanning generations, they seems to have allied themselves with the Hiue family in present times. 
 
-Until [[Katsuo Hiue|Katsuo]], pretty much every Hiue attended the Box Jellyfish Private School
+Until [[Katsuo Hiue|Katsuo]], pretty much every Hiue attended the Box Jellyfish Private School.
 
 ## The Hiue Kami
 
@@ -39,21 +39,17 @@ Nowadays, she keeps track of jellyfish souls in Jellyfish Hell using candles- a 
 Unnamed: Katsuo's Grandfather, Katsuo's 3 Grandmothers (who I will name A, B, and C for now)
 
 > The 40s Generation:
-### A
-- [[Tarou Hiue]]:  Strove to stop the tradition altogether. He was headstrong, overly idealistic, and surprisingly kind despite everything.
-- [[Aiko Hiue]]: Felt strongly about not continuing the tradition. Almost like the girl version of Tarou, just had more direction when it came to her plans.
-- [[Saburou Hiue]]: Supported Tarou. Was considered unapproachable thanks to his skillful use of poisons.
-- [[Oko Hiue]]: Incredibly two-faced and deceptive (A bit of an ore-sama). Wanted to survive but also found the idea of heading the family thrilling. Fought often with Jirou.
-
-### B
+### By Birth Order
+- [[Tarou Hiue]]:  
 - [[Jirou Hiue]]: Fought to stay alive and inherit the family. Was the most ruthless out of all the siblings.
-- [[Uko Hiue]]: Was incredibly lonely, and was desperate to find connection in the little moments between murder attempts.
+- [[Aiko Hiue]]: 
+- [[Saburou Hiue]]:  Was considered unapproachable thanks to his skillful use of poisons.
+- [[Uko Hiue]]: Died shortly after strobilation.
 - [[Eko Hiue]]: Cold and stoic. Rarely showed emotion and silently observed her surroundings before striking.
-- [[Shinigami kun]]: Wasn't all that strong or aggressive compared to his siblings but was cunning and well-spoken. Often incited fights between his siblings to save himself.
-
-### C
-- [[Gorou Hiue]]: The (book) smartest out of all the siblings, yet profoundly afraid of death.
-- [[Rokurou Hiue and Shichirou Hiue]]: C's attempt at grabbing the head after Gorou died. Both died incredibly young, so she lost her footing in the Hiue family. 
+- [[Oko Hiue]]: Incredibly two-faced and deceptive (A bit of an ore-sama). Wanted to survive but also found the idea of heading the family thrilling. Fought often with Jirou.
+- [[Shinigami kun|Shirou Hiue]]: Wasn't all that strong or aggressive compared to his siblings but was cunning and well-spoken. Often incited fights between his siblings to save himself.
+- [[Gorou Hiue]]: The (book) smartest out of all the siblings, and also the most profoundly afraid of death. His mother largely kept him separated from the other children, mostly for his safety.
+- [[Rokurou Hiue]]: Last child born to the generation, shortly after Gorou. Died shortly after strobilation.
 
 > The 70s Generation:
 - [[Katsuo Hiue]], Jirou's son. 

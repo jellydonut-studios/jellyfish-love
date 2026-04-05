@@ -1,8 +1,8 @@
 >[!infobox] HYPERDOLPHIN
 >![[placeholder.png]]
-><div class="label">JP Name</div>ハイパードルフィン
-><div class="section"> Information</div>
-><div class="label">Type</div> Club <div />
+>JP Name -> ハイパードルフィン
+>// Information
+>Type -> Club
 
 **HYPERDOLPHIN** (ハイパードルフィン) is a high school band associated with the [[Crown Academy]]. Currently, the leader is [[Kanzou Sugama]].
 # History

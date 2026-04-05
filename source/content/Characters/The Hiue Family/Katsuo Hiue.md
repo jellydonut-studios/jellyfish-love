@@ -1,12 +1,12 @@
->[!infobox] Katsuo Hiue
->![[placeholder.png]]
-><div class="label">JP Name</div>火上勝雄
-><div class="section">Character Information</div>
-><div class="label">Jellyfish</div><em>Morbakka virulenta</em>
-><div class="label">Age</div> 15 years <div />
-><div class="label">Strobilation Day</div>October 26, XX72<div />
-><div class="label">Gender</div>Male<div />
-><div class="label">Status</div>Alive
+> [!infobox] Katsuo Hiue
+> ![[placeholder.png]]
+> JP Name -> 火上勝雄
+> // Character Information
+> Jellyfish -> *Morbakka virulenta*
+> Age -> 15 years
+> Strobilation Day -> October 26, XX72
+> Gender -> Male
+> Status -> Alive
 
 > [Put some quote here]
 

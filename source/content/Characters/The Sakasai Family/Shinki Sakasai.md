@@ -1,12 +1,12 @@
->[!infobox] Shinki Sakasai
+> [!infobox] Shinki Sakasai
 >![[oh no shinki.jpg]]
-><div class="label">JP Name</div>逆井心妃
-><div class="section">Character Information</div>
-><div class="label">Jellyfish</div><em>Cassiopea ornata</em>
-><div class="label">Age</div> 24 years <div />
-><div class="label">Strobilation Day</div>N/A<div />
-><div class="label">Gender</div>N/A<div />
-><div class="label">Status</div>Unknown
+> JP Name -> 逆井心妃
+> // Character Information
+> Jellyfish -> *Cassiopea ornata*
+> Age -> 24 years
+> Strobilation Day -> N/A
+> Gender -> Female
+> Status -> See [[Shinki Sakasai#Story|Story]]
 
 > [Put some quote here]
 

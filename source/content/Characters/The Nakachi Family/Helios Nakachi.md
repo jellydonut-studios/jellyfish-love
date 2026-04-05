@@ -1,12 +1,12 @@
->[!infobox] Helios Nakachi
+> [!infobox] Helios Nakachi
 >![[Helios Nakachi.png]]
-><div class="label">JP Name</div>[JP Name]
-><div class="section">Character Information</div>
-><div class="label">Jellyfish</div><em>Jellyfish Latin Name</em>
-><div class="label">Age</div> 0 years <div />
-><div class="label">Strobilation Day</div>N/A<div />
-><div class="label">Gender</div>Male<div />
-><div class="label">Status</div>Alive
+> JP Name -> 中地ヘリオス
+> // Character Information
+> Jellyfish -> *Cotylorhiza tuberculata*
+> Age -> 18 years
+> Strobilation Day -> XX70
+> Gender -> Male
+> Status -> Alive
 
 > [Put some quote here]
 

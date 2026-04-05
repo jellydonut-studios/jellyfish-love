@@ -1,12 +1,12 @@
->[!infobox] Shima Hiratoki
+> [!infobox] Shima Hiratoki
 >![[Shima Hiratoki.png]]
-><div class="label">JP Name</div>平時紫眞
-><div class="section">Character Information</div>
-><div class="label">Jellyfish</div><em>Atolla wyvillei</em>
-><div class="label">Age</div> 31 years <div />
-><div class="label">Strobilation Day</div>N/A<div />
-><div class="label">Gender</div>Male<div />
-><div class="label">Status</div>Alive
+> JP Name -> 平時紫眞
+> // Character Information
+> Jellyfish -> *Atolla wyvillei*
+> Age -> 31 years
+> Strobilation Day -> N/A
+> Gender -> Male
+> Status -> Alive
 
 > [Put some quote here]
 

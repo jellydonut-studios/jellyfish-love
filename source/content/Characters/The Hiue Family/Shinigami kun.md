@@ -3,15 +3,15 @@ aliases:
   - Shinigami kun
   - Shirou Hiue
 ---
->[!infobox] Shinigami kun
+> [!infobox] Shinigami kun
 >![[Shinigami kun.jpg]]
-><div class="label">JP Name</div>死神くん
-><div class="section">Character Information</div>
-><div class="label">Jellyfish</div><em>Morbakka virulenta</em>
-><div class="label">Age</div> ~20 years <div />
-><div class="label">Strobilation Day</div>XX49<div />
-><div class="label">Gender</div>Male<div />
-><div class="label">Status</div>Deceased (Shinigami)
+> JP Name -> 火上三郎
+> // Character Information
+> Jellyfish -> *Morbakka virulenta*
+> Age -> ~20 years
+> Strobilation Day -> XX49
+> Gender -> Male
+> Status -> Deceased (Shinigami)
 
 > [Put some quote here]
 

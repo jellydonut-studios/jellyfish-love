@@ -1,12 +1,12 @@
->[!infobox] Saburou Hiue
->![[Pasted image 20260403181820.png]]
-><div class="label">JP Name</div>火上三郎
-><div class="section">Character Information</div>
-><div class="label">Jellyfish</div><em>Morbakka virulenta</em>
-><div class="label">Age</div> 18 years <div />
-><div class="label">Strobilation Day</div>XX49<div />
-><div class="label">Gender</div>Male<div />
-><div class="label">Status</div>Deceased
+> [!infobox] Saburou Hiue
+> ![[Pasted image 20260403181820.png]]
+> JP Name -> 火上三郎
+> // Character Information
+> Jellyfish -> *Morbakka virulenta*
+> Age -> 18 years
+> Strobilation Day -> XX49
+> Gender -> Male
+> Status -> Deceased
 
 > [Put some quote here]
 

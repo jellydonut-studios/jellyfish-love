@@ -1,9 +1,8 @@
-
->[!infobox] The Kaburagi Family
+> [!infobox] The Kaburagi Family
 >![[placeholder.png]]
-><div class="label">JP Name</div>冠城家
-><div class="section">Family Information</div>
-><div class="label">Jellyfish</div><em>Nausithoe maculata</em>
+> JP Name ->冠城家
+> // Family Information
+> Jellyfish -> *Nausithoe punctata*
 
 > [Put some quote here]
 

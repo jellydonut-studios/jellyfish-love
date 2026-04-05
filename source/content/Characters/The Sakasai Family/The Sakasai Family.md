@@ -1,8 +1,8 @@
->[!infobox] The Sakasai Family
+> [!infobox] The Sakasai Family
 >![[placeholder.png]]
-><div class="label">JP Name</div>逆井家
-><div class="section">Family Information</div>
-><div class="label">Jellyfish</div><em>Cassiopea ornata</em>
+> JP Name ->逆井家
+> // Family Information
+> Jellyfish -> *Cassiopea ornata*
 
 > [Put some quote here]
 

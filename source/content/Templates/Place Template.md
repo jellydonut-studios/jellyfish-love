@@ -1,8 +1,8 @@
 >[!infobox] {{title}}
 >![[placeholder.png]]
-><div class="label">JP Name</div>[JP Name]
-><div class="section">Location Information</div>
-><div class="label">Type</div> Type of Place <div />
+>JP Name ->[JP Name]
+>// Location Information
+>Type -> Type of Place
 
 **Place's Name in Bold** (Place's Name in Japanese) is ... [General description]
 

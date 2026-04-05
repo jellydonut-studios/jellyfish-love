@@ -1,12 +1,12 @@
->[!infobox] Ushio Sakasai
+> [!infobox] Ushio Sakasai
 >![[Ushio Sakasai.png]]
-><div class="label">JP Name</div> 逆井侑潮
-><div class="section">Character Information</div>
-><div class="label">Jellyfish</div><em>Cassiopea ornata</em>
-><div class="label">Age</div> 18 years <div />
-><div class="label">Strobilation Day</div>N/A<div />
-><div class="label">Gender</div>Nonbinary<div />
-><div class="label">Status</div>Alive
+> JP Name -> 逆井侑潮
+> // Character Information
+> Jellyfish -> *Cassiopea ornata*
+> Age -> 18 years
+> Strobilation Day -> N/A
+> Gender -> Nonbinary
+> Status -> Alive
 
 > [Put some quote here]
 

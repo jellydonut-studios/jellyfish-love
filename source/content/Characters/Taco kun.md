@@ -1,12 +1,12 @@
->[!infobox] Taco kun
+> [!infobox] Taco kun
 >![[taco kun has had enough.jpg]]
-><div class="label">JP Name</div>たこくん
-><div class="section">Character Information</div>
-><div class="label">Jellyfish</div><em>Aurelia coerulea</em>
-><div class="label">Age</div> 0 years <div />
-><div class="label">Strobilation Day</div>N/A<div />
-><div class="label">Gender</div>Male<div />
-><div class="label">Status</div>Alive
+> JP Name -> タコくん
+> // Character Information
+> Jellyfish -> *Aurelia coerulea*
+> Age -> 17 years
+> Strobilation Day -> N/A
+> Gender -> Male
+> Status -> Alive
 
 > [Put some quote here]
 

@@ -1,8 +1,8 @@
 >[!infobox] {{title}}
 >![[placeholder.png]]
-><div class="label">JP Name</div>[JP Name]
-><div class="section">Family Information</div>
-><div class="label">Jellyfish</div><em>Jellyfish Latin Name</em>
+>JP Name ->[JP Name]
+>// Family Information
+>Jellyfish ->*Jellyfish Latin Name*
 
 > [Put some quote here]
 
@@ -16,6 +16,7 @@
 
 # Etymology
 ---
+
 _LastName_ is written as [LastName in Japanese]
 - 
 

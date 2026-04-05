@@ -1,12 +1,12 @@
->[!infobox] Kanzou Sugama
+> [!infobox] Kanzou Sugama
 >![[Kanzou Sugama.jpg]]
-><div class="label">JP Name</div>洌鎌寒造
-><div class="section">Character Information</div>
-><div class="label">Jellyfish</div><em>Phacellophora camtschatica</em>
-><div class="label">Age</div> 18 years <div />
-><div class="label">Strobilation Day</div>N/A<div />
-><div class="label">Gender</div>Male<div />
-><div class="label">Status</div>Alive
+> JP Name -> 洌鎌寒造
+> // Character Information
+> Jellyfish -> *Phacellophora camtschatica*
+> Age -> 18 years
+> Strobilation Day -> N/A
+> Gender -> Male
+> Status -> Alive
 
 > [Put some quote here]
 
@@ -14,10 +14,12 @@
 
 # Physical Description
 ---
+
 Kanzou is a large *Phacellophora camtschatica*, with bright yellow stomach and frills. He has many thin, long tentacles on his bell margin, which often get stuck to things. When drawn, he has a star on the side of his bell. 
 
-As a human, Kanzou is similarly tall, with his eyelashes, eyebrows, and the top of his hair being a similar shade of orange. He has white eyes, and a start on his cheek. 
+As a human, Kanzou is similarly tall, with his eyelashes, eyebrows, and the top of his hair being a similar shade of orange. He has white eyes, and a blue star on his cheek. 
 Unlike most jellies at the Crown Academy, he does not wear the capelet on his uniform, and rolls his sleeves up to his shoulders.
+
 # Personality
 ---
 

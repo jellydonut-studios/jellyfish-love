@@ -1,8 +1,8 @@
->[!infobox] The Nakachi Family
+> [!infobox]The Nakachi Family
 >![[placeholder.png]]
-><div class="label">JP Name</div>中地家
-><div class="section">Family Information</div>
-><div class="label">Jellyfish</div><em>Cotylorhiza tuberculata</em>
+> JP Name ->中地家
+> // Family Information
+> Jellyfish -> *Cotylorhiza tuberculata*
 
 > [Put some quote here]
 

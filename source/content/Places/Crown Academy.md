@@ -1,8 +1,8 @@
 >[!infobox] Crown Academy
 >![[placeholder.png]]
-><div class="label">JP Name</div>[JP Name]
-><div class="section">Location Information</div>
-><div class="label">Type</div> School <div />
+>JP Name -> [JP Name]
+>// Location Information
+>Type -> School
 
 The **Crown Academy** (Place's Name in Japanese) is an international private academy established by [[The Kaburagi Family]] nearly 200 years ago. It is currently in Underwater Kyoto.
 
