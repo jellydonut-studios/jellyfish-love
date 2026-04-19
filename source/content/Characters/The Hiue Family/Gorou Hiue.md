@@ -35,10 +35,12 @@ Gorou was one of the more anxious and timid children in his generation, crying e
 
 # Etymology
 ---
-_LastName_ is written as [LastName in Japanese]
-- *If they're part of a family page, link it above and mention it here*
-_FirstName_ is written as [FirstName in Japanese]:
-- 
+_Hiue_ is written as [[The Hiue Family#Etymology|火上]]:
+- *See the Hiue family page*
+
+_Gorou_ is written as 五郎:
+- (Lit. 5rd Son)
+- Named because he was the fifth son of the Hiue family.
 
 # Fun Facts
 ---

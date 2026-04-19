@@ -10,7 +10,7 @@
 
 > [Put some quote here]
 
-**Saburou Hiue*** (火上三郎) is a *Morbakka virulenta* and the third son and fourth eldest child of [[The Hiue Family]].
+**Saburou Hiue*** (火上三郎) is a the third son and fourth eldest child of [[The Hiue Family]].
 
 # Physical Description
 ---
@@ -61,6 +61,7 @@ While Saburou still attempted murder him for the sake of appearances, he conside
 ---
 _Hiue_ is written as [[The Hiue Family#Etymology|火上]]:
 - *See the Hiue family page*
+
 *Saburou* is written as 三郎:
 - (Lit. 3rd Son)
 - Named because he was the third son of the Hiue family.

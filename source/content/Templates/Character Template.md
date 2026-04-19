@@ -31,6 +31,7 @@
 ---
 _LastName_ is written as [LastName in Japanese]
 - *If they're part of a family page, link it above and mention it here*
+
 _FirstName_ is written as [FirstName in Japanese]:
 - 
 

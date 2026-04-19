@@ -1,9 +1,9 @@
 >[!infobox] The Shinigami that is also a Jellyfish
 >![[placeholder.png]]
->JP Name -> 痛い！ジェリーフィッシュラブです！
->// Media Information
->Release Date -> TBD 
->Platform -> PC
+> JP Name -> 痛い！ジェリーフィッシュラブです！
+> // Media Information
+> Release Date -> TBD 
+> Platform -> PC
 
 **The Shinigami that is also a Jellyfish** is a game set in the [[index|Jellyfish Love!]] Universe, featuring the main character [[Shinki Sakasai]] and the titular [[Shinigami kun|Shinigami kun]], her partner in crime.
 

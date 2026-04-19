@@ -1,4 +1,4 @@
-> [!infobox]The Hiue Family
+> [!infobox] The Hiue Family
 >![[placeholder.png]]
 > JP Name ->火上家
 > // Family Information
