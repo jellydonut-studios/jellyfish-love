@@ -1,4 +1,4 @@
-> [!infobox]The Nozaki Family
+> [!infobox] The Nozaki Family
 >![[placeholder.png]]
 > JP Name ->野崎家
 > // Family Information

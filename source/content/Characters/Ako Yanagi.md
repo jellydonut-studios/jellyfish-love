@@ -3,14 +3,14 @@
 > JP Name -> 柳赤
 > // Character Information
 > Jellyfish -> *Chrysaora pacifica*
-> Age -> 16 years
+> Age -> N/A
 > Strobilation Day -> N/A
 > Gender -> Female
 > Status -> Alive
 
 > [Put some quote here]
 
-**Ako Yanagi** (柳赤) is ... [General description]
+**Ako Yanagi** (柳赤) is a Japanese Sea Nettle and the co-owner of [[a Nearby Ramen Shop]].
 
 # Physical Description
 ---

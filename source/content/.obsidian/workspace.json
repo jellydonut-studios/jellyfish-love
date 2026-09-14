@@ -6,7 +6,6 @@
       {
         "id": "2aed43a08949caef",
         "type": "tabs",
-        "dimension": 57.11656441717791,
         "children": [
           {
             "id": "13477756cd69d532",
@@ -26,17 +25,17 @@
             }
           },
           {
-            "id": "a0fde3dd3130c548",
+            "id": "7b4a9cfa91aa9e02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/The Hiue Family/Eko Hiue.md",
+                "file": "Characters/Kanzou Sugama.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eko Hiue"
+              "title": "Kanzou Sugama"
             }
           },
           {
@@ -52,29 +51,72 @@
               "icon": "lucide-file",
               "title": "Planning a mystery game"
             }
-          }
-        ]
-      },
-      {
-        "id": "cdae3cbc92f3ad2f",
-        "type": "tabs",
-        "dimension": 42.88343558282209,
-        "children": [
+          },
           {
-            "id": "26a888439c142b5c",
+            "id": "367192f9f3a35099",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline/Grand Timeline.md",
+                "file": "Characters/Ako Yanagi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grand Timeline"
+              "title": "Ako Yanagi"
             }
           }
-        ]
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "805e523f012ac4f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d6b6ed43fff7bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/The Hiue Family/Eko Hiue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eko Hiue"
+            }
+          },
+          {
+            "id": "0729d84fbd1ea77e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Shimako Yanagi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shimako Yanagi"
+            }
+          },
+          {
+            "id": "834eb1e8bc5ec41f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Achlys Ortega.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Achlys Ortega"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +136,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -240,48 +284,49 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "13477756cd69d532",
+  "active": "57a66723fb2c58fc",
   "lastOpenFiles": [
-    "Timeline/Grand Timeline.md",
-    "Characters/The Hiue Family/The Hiue Family.md",
-    "Shinigami Brainstorming.canvas",
+    "Characters/Rei Samukawa.md",
+    "Characters/Kiseki Ishiboshi.md",
+    "Characters/Ako Yanagi.md",
+    "Characters/Achlys Ortega.md",
+    "Characters/The Sakasai Family/Yoshinori Sakasai.md",
+    "Characters/The Sakasai Family/Ushio Sakasai.md",
+    "Characters/The Sakasai Family/The Sakasai Family.md",
+    "Characters/The Sakasai Family/Shinki Sakasai.md",
+    "Characters/The Nozaki Family/Yuune Nozaki.md",
+    "Pasted image 20260914005331.png",
+    "Characters/The Nozaki Family/The Nozaki Family.md",
     "Characters/The Hiue Family/Eko Hiue.md",
-    "Characters/The Hiue Family/Saburou Hiue.md",
+    "Characters/The Nakachi Family/Helios Nakachi.md",
     "Characters/The Hiue Family/Katsuo Hiue.md",
     "Characters/The Hiue Family/Gorou Hiue.md",
+    "Characters/The Hiue Family/Saburou Hiue.md",
     "Characters/The Hiue Family/Shinigami kun.md",
-    "templates/Spoiler Alert.md",
-    "templates/Place Template.md",
-    "templates/Media Template.md",
-    "templates/Family Template.md",
-    "templates/Character Template.md",
-    "Media/The Shinigami that is also a Jellyfish.md",
-    "private/Planning a mystery game.md",
-    "Timeline/Timeline Events.md",
-    "Media/The Jellyfish Otome Game.md",
-    "Places/HYPERDOLPHIN.md",
-    "Places/Crown Academy.md",
-    "Characters/Taco kun.md",
-    "Characters/Sui Mizutsuki.md",
-    "Characters/Shimako Yanagi.md",
-    "Characters/Shima Hiratoki.md",
-    "Characters/Rei Samukawa.md",
-    "Characters/Ponyo Shinawa.md",
+    "Characters/The Kaburagi Family/The Kaburagi Family.md",
+    "Characters/The Kaburagi Family/Kazuo Kaburagi.md",
+    "Characters/The Kaburagi Family/Futao Kaburagi.md",
+    "Characters/Kanzou Sugama.md",
     "Characters/Nichirin Yanagi.md",
-    "Characters/Characters.base",
-    "Images/Hiue Family Tree.png",
-    "Images/oh no shinki.jpg",
-    "Images/Pasted image 20260221005250.png",
-    "Images/Yuune Nozaki.png",
-    "Images/Yoshinori Sakasai.png",
-    "Images/Ushio Sakasai.png",
-    "Images/Uploaded Images.base",
-    "Images/Shima Hiratoki.png",
-    "Images/Rei Samukawa.png",
-    "Images/Pasted image 20260222204906.png",
-    "Pasted image 20260403181820.png",
-    "private",
+    "Characters/Ponyo Shinawa.md",
+    "Characters/Shima Hiratoki.md",
+    "Characters/Shimako Yanagi.md",
+    "Characters/Sui Mizutsuki.md",
+    "haruto banner.png",
+    "Underwater Kyoto.md",
+    "boy do i love holographic umbrellas (i hate them).png",
+    "Pasted image 20260914004125.png",
+    "Pasted image 20260914004038.png",
+    "Pasted image 20260914004002.png",
+    "Pasted image 20260914003930.png",
+    "Pasted image 20260914003925.png",
+    "Pasted image 20260914003920.png",
+    "Akuros banner.png",
+    "Shinigami Brainstorming.canvas",
     "Shinigami UI Brainstorm.canvas",
+    "Characters/Characters.base",
+    "Images/Uploaded Images.base",
+    "private",
     "templates",
     "Worldbuilding Notes.canvas",
     "TODO.canvas",

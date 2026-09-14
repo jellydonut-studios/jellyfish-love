@@ -26,7 +26,7 @@ She is often seen wearing elaborate outfits, though hides weapons underneath the
 As with many of her siblings, Eko is a ruthless individual who rarely shows her emotions. She was very perceptive, and often looked for weak points even before approaching people. 
 She wasn't a jellyfish of many words, and was very blunt.
 
-She despises ugly things, and thus takes great pains to make her surroundings as nice and orderly as possible. 
+She despises ugly things, and thus takes great pains to make herself and her surroundings as nice and orderly as possible. 
 
 # Story
 ---

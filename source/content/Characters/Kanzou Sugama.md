@@ -10,7 +10,7 @@
 
 > [Put some quote here]
 
-**Kanzou Sugama** (洌鎌寒造) is an Egg Yolk jellyfish and a 4th year at the [[Crown Academy]]. He is the bassist for [[HYPERDOLPHIN]].
+**Kanzou Sugama** (洌鎌寒造) is an Egg Yolk jellyfish and a 4th year at the [[Crown Academy]]. He is the leader and bassist for [[HYPERDOLPHIN]].
 
 # Physical Description
 ---
@@ -22,6 +22,11 @@ Unlike most jellies at the Crown Academy, he does not wear the capelet on his un
 
 # Personality
 ---
+Kanzou is known around the student body to be a somewhat flirty- though is mostly laid back, if not to the point of aloofness. 
+
+For some reason, teachers seem to be scared of him.
+
+He is often seen with a rock crab, though never seems to explain why they keep changing every so often.
 
 # Story
 ---
@@ -32,6 +37,10 @@ Unlike most jellies at the Crown Academy, he does not wear the capelet on his un
 # Gallery
 ---
 
+![[category 5 hair down incident.png]]
+
+![[THE CULPRIT.png]]
+*Kanzou and his pet crab*
 # Etymology
 ---
 _Sugama_ is written as 洌鎌:

@@ -5,7 +5,7 @@
 > Jellyfish -> *Cassiopea ornata*
 > Age -> 22 years
 > Strobilation Day -> N/A
-> Gender -> Nonbinary
+> Gender -> Male
 > Status -> Alive
 
 > [Put some quote here]

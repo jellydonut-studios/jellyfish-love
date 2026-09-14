@@ -1,5 +1,5 @@
 > [!infobox] Katsuo Hiue
-> ![[placeholder.png]]
+> ![[Pasted image 20260914004125.png]]
 > JP Name -> 火上勝雄
 > // Character Information
 > Jellyfish -> *Morbakka virulenta*
@@ -24,6 +24,10 @@
 # Relationships
 --- 
 
+# Gallery
+---
+![[Pasted image 20260914004038.png]]
+*Quick reference sheet drawn for practice*
 # Etymology
 ---
 _Hiue_ is written as [[The Hiue Family#Etymology|火上]]:
@@ -40,7 +44,7 @@ _Katsuo_ is written as 勝雄:
 	- This was a complete coincidence on his part. However, they are written with different kanji.
 - He is the first Hiue to attend the [[Crown Academy]] for the last three generations
 - His concept art is verrry different from his current design :)
-- 
+- He used to be drawn with a long, blue scarf- but I kept forgetting to draw it in his design so I omit it now.
 
 # Links
 ---

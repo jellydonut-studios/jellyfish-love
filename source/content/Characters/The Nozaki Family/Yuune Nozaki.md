@@ -2,7 +2,7 @@
 > This entry contains spoilers for the Jellyfish Otome Game. You have been warned!
 
 > [!infobox] Yuune Nozaki
-> ![[placeholder.png]]
+> ![[Pasted image 20260914005331.png]]
 > JP Name -> 野崎幽音
 > // Character Information
 > Jellyfish -> *Cyanea nozakii*
