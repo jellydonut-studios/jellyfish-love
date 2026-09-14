@@ -1,6 +1,6 @@
 >[!infobox] The Shinigami that is also a Jellyfish
 >![[placeholder.png]]
-> JP Name -> 痛い！ジェリーフィッシュラブです！
+> JP Name -> TBD
 > // Media Information
 > Release Date -> TBD 
 > Platform -> PC
@@ -28,7 +28,8 @@ It is the spiritual spin-off of [[The Jellyfish Otome Game]], mainly featuring t
 # Etymology
 ---
 
-_The Shinigami that is also a Jellyfish_ is a placeholder name.
+_The Shinigami that is also a Jellyfish_ refers to Shinigami-kun, who is a Shinigami that is a jellyfish.
+
 Unlike [[The Jellyfish Otome Game]], this game will probably have drastically different names in English and Japanese.
 
 # Fun Facts

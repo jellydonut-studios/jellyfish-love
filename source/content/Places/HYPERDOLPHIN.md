@@ -5,6 +5,9 @@
 >Type -> Club
 
 **HYPERDOLPHIN** (ハイパードルフィン) is a high school band associated with the [[Crown Academy]]. Currently, the leader is [[Kanzou Sugama]].
+
+The band practices in the music room after school.
+
 # History
 --- 
 HYPERDOLPHIN was started by [[Kiseki Ishiboshi]] in her first year with [[Rei Samukawa]]. 

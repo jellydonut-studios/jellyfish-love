@@ -74,59 +74,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d6b6ed43fff7bed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/The Hiue Family/Eko Hiue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eko Hiue"
-            }
-          },
-          {
             "id": "0729d84fbd1ea77e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Shimako Yanagi.md",
+                "file": "Places/Underwater Kyoto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shimako Yanagi"
+              "title": "Underwater Kyoto"
             }
           },
           {
-            "id": "f1177d5c84cd87d2",
+            "id": "71290a7ba7acf00d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/The Kaburagi Family/Luís Momoka Silveira Kaburagi.md",
+                "file": "Places/Crown Academy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luís Momoka Silveira Kaburagi"
-            }
-          },
-          {
-            "id": "834eb1e8bc5ec41f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Achlys Ortega.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Achlys Ortega"
+              "title": "Crown Academy"
             }
           }
         ]
@@ -297,9 +269,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1d6b6ed43fff7bed",
+  "active": "0729d84fbd1ea77e",
   "lastOpenFiles": [
+    "Places/Crown Academy.md",
+    "Places/Underwater Kyoto.md",
+    "Characters/Shimako Yanagi.md",
+    "Local Girls' Highschool.md",
+    "Places/HYPERDOLPHIN.md",
+    "Characters/Ako Yanagi.md",
+    "Media/The Shinigami that is also a Jellyfish.md",
     "Characters/The Kaburagi Family/Luís Momoka Silveira Kaburagi.md",
+    "Characters/Achlys Ortega.md",
+    "Characters/The Hiue Family/Eko Hiue.md",
     "Images/THE CULPRIT.png",
     "Images/Rei Samukawa (ref).png",
     "Images/Akuros banner.png",
@@ -308,7 +289,6 @@
     "Images/haruto banner.png",
     "Images/luis open wide.png",
     "Images/rei cutie.jpg",
-    "Characters/Shimako Yanagi.md",
     "Pasted image 20260914110926.png",
     "Media/The Jellyfish Otome Game.md",
     "Characters/The Kaburagi Family/Futao Kaburagi.md",
@@ -316,9 +296,6 @@
     "Images/luis regalia.png",
     "Characters/Kanzou Sugama.md",
     "Characters/Sui Mizutsuki.md",
-    "Characters/Achlys Ortega.md",
-    "Characters/The Hiue Family/Eko Hiue.md",
-    "Characters/Ako Yanagi.md",
     "Characters/Rei Samukawa.md",
     "Characters/Kiseki Ishiboshi.md",
     "Characters/The Sakasai Family/Yoshinori Sakasai.md",
@@ -330,10 +307,6 @@
     "Characters/The Nakachi Family/Helios Nakachi.md",
     "Characters/The Hiue Family/Katsuo Hiue.md",
     "Characters/The Hiue Family/Gorou Hiue.md",
-    "Characters/The Hiue Family/Saburou Hiue.md",
-    "Characters/The Hiue Family/Shinigami kun.md",
-    "Characters/The Kaburagi Family/Kazuo Kaburagi.md",
-    "Characters/Nichirin Yanagi.md",
     "Shinigami Brainstorming.canvas",
     "Shinigami UI Brainstorm.canvas",
     "Characters/Characters.base",
