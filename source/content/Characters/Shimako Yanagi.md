@@ -10,10 +10,12 @@
 
 > [Put some quote here]
 
-**Shimako Yanagi** (柳縞子) is a Japanese Sea Nettle and a first year at the [[Local Girls' Highschool]]
+**Shimako Yanagi** (柳縞子) is a Japanese Sea Nettle and a 1st year at the [[Local Girls' Highschool]]
 
 # Physical Description
 ---
+As a jellyfish, Shimako is a typical Japanese Sea Nettle with the distinctive striped pattern on the top of her bell.
+
 
 # Personality
 ---
@@ -23,17 +25,21 @@
 
 # Relationships
 --- 
-[[Ako Yanagi]] is her biological biological mother and [[Nichirin Yanagi]] is her step mother. She is close friends with [[Achlys Ortega]]
+[[Ako Yanagi]] is her biological biological mother and [[Nichirin Yanagi]] is her step mother. She is close friends with [[Achlys Ortega]].
 # Gallery
 ---
-
+![[Pasted image 20260914003930.png]]
+*Shimako hanging out with Achlys for the first time in a while.*
 # Etymology
 ---
-_LastName_ is written as [LastName in Japanese]
-- *If they're part of a family page, link it above and mention it here*
+_Yanagi_ is written as 柳:
+- "柳": Willow
+- Named for the Japanese name of *Chrysaora*, *ヤナギクラゲ属* (Yanagi Kurage Zoku). 
 
-_FirstName_ is written as [FirstName in Japanese]:
-- 
+_Shimako_ is written as 縞子:
+- "縞": Stripe
+- "子": Child, common suffix for girls' names
+- Named for the stripes usually found on the Japanese Sea Nettles
 
 # Fun Facts
 ---

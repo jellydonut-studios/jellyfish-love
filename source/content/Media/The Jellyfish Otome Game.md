@@ -5,12 +5,26 @@
 >Release Date -> TBD 
 >Platform -> PC
 
-**The Jellyfish Otome Game** is a game set in the [[index|Jellyfish Love!]] Universe, 
+**The Jellyfish Otome Game** is a game set in the [[index|Jellyfish Love!]] Universe, where you can date jellyfish!
 
 # Gameplay
 --- 
 
 You play as [[Ponyo Shinawa]], a high school girl attending her first year at the [[Crown Academy]].
+
+# Characters
+---
+The main characters of the game are as follows:
+
+| Character                         | Role                           |
+| --------------------------------- | ------------------------------ |
+| [[Ponyo Shinawa]]                 | Otome Game Main Character      |
+| [[Sui Mizutsuki]]                 | Childhood Friend Love Interest |
+| [[Achlys Ortega]]                 | Asshole Love Interest          |
+| [[Luís Momoka Silveira Kaburagi]] | The Ore-Sama Love Interest     |
+| [[Ushio Sakasai]]                 | The Prince-type Love Interest  |
+| [[Kanzou Sugama]]                 | The Flirty Love Interest       |
+
 
 # Plot
 --- 
@@ -29,7 +43,7 @@ The project went on hiatus from around 2024, and it has since stayed that way. P
 ---
 
 _The Jellyfish Otome Game_ is a placeholder name.
-The project was originally called *Ite! It's Jellyfish Love* when it was first developed, but after getting better at Japanese I realized that "Ite" isn't very fitting. 
+The project was originally called *Ite! It's Jellyfish Love* when it was first developed, but after getting better at Japanese I realized that "Ite" isn't very fitting for an Otome Game. 
 
 # Fun Facts
 ---

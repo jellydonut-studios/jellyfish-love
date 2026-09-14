@@ -102,6 +102,20 @@
             }
           },
           {
+            "id": "f1177d5c84cd87d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/The Kaburagi Family/Luís Momoka Silveira Kaburagi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Luís Momoka Silveira Kaburagi"
+            }
+          },
+          {
             "id": "834eb1e8bc5ec41f",
             "type": "leaf",
             "state": {
@@ -115,8 +129,7 @@
               "title": "Achlys Ortega"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -284,44 +297,43 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "57a66723fb2c58fc",
+  "active": "1d6b6ed43fff7bed",
   "lastOpenFiles": [
+    "Characters/The Kaburagi Family/Luís Momoka Silveira Kaburagi.md",
+    "Images/THE CULPRIT.png",
+    "Images/Rei Samukawa (ref).png",
+    "Images/Akuros banner.png",
+    "Images/boy do i love holographic umbrellas (i hate them).png",
+    "Images/category 5 hair down incident.png",
+    "Images/haruto banner.png",
+    "Images/luis open wide.png",
+    "Images/rei cutie.jpg",
+    "Characters/Shimako Yanagi.md",
+    "Pasted image 20260914110926.png",
+    "Media/The Jellyfish Otome Game.md",
+    "Characters/The Kaburagi Family/Futao Kaburagi.md",
+    "Characters/The Kaburagi Family/The Kaburagi Family.md",
+    "Images/luis regalia.png",
+    "Characters/Kanzou Sugama.md",
+    "Characters/Sui Mizutsuki.md",
+    "Characters/Achlys Ortega.md",
+    "Characters/The Hiue Family/Eko Hiue.md",
+    "Characters/Ako Yanagi.md",
     "Characters/Rei Samukawa.md",
     "Characters/Kiseki Ishiboshi.md",
-    "Characters/Ako Yanagi.md",
-    "Characters/Achlys Ortega.md",
     "Characters/The Sakasai Family/Yoshinori Sakasai.md",
     "Characters/The Sakasai Family/Ushio Sakasai.md",
     "Characters/The Sakasai Family/The Sakasai Family.md",
     "Characters/The Sakasai Family/Shinki Sakasai.md",
     "Characters/The Nozaki Family/Yuune Nozaki.md",
-    "Pasted image 20260914005331.png",
     "Characters/The Nozaki Family/The Nozaki Family.md",
-    "Characters/The Hiue Family/Eko Hiue.md",
     "Characters/The Nakachi Family/Helios Nakachi.md",
     "Characters/The Hiue Family/Katsuo Hiue.md",
     "Characters/The Hiue Family/Gorou Hiue.md",
     "Characters/The Hiue Family/Saburou Hiue.md",
     "Characters/The Hiue Family/Shinigami kun.md",
-    "Characters/The Kaburagi Family/The Kaburagi Family.md",
     "Characters/The Kaburagi Family/Kazuo Kaburagi.md",
-    "Characters/The Kaburagi Family/Futao Kaburagi.md",
-    "Characters/Kanzou Sugama.md",
     "Characters/Nichirin Yanagi.md",
-    "Characters/Ponyo Shinawa.md",
-    "Characters/Shima Hiratoki.md",
-    "Characters/Shimako Yanagi.md",
-    "Characters/Sui Mizutsuki.md",
-    "haruto banner.png",
-    "Underwater Kyoto.md",
-    "boy do i love holographic umbrellas (i hate them).png",
-    "Pasted image 20260914004125.png",
-    "Pasted image 20260914004038.png",
-    "Pasted image 20260914004002.png",
-    "Pasted image 20260914003930.png",
-    "Pasted image 20260914003925.png",
-    "Pasted image 20260914003920.png",
-    "Akuros banner.png",
     "Shinigami Brainstorming.canvas",
     "Shinigami UI Brainstorm.canvas",
     "Characters/Characters.base",

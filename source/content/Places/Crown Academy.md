@@ -34,7 +34,7 @@ The named characters associated with the school are as follows:
 | [[Ponyo Shinawa]]        | 1st  |       | Varies               |
 | [[Sui Mizutsuki]]        | 1st  |       |                      |
 | [[Achlys Ortega]]        | 1st  |       |                      |
-| [[Luis Kaburagi]]        | 1st  |       |                      |
+| [[Luís Momoka Silveira Kaburagi]]        | 1st  |       |                      |
 | [[Katsuo Hiue]]          | 1st  |       |                      |
 | [[Taco kun]]             | 3rd  |       | Student Council      |
 | Kita [Last Name Pending] | 3rd  |       |                      |
