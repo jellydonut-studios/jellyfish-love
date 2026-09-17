@@ -1,8 +1,8 @@
 > [!infobox] Achlys Ortega
->![[Pasted image 20260914004002.png]]
+>![[Achlys returns.png]]
 >JP Name -> オルテガ・アクリス
 >// Character Information
->Jellyfish -> *Chrysaora achlys*
+>Jellyfish -> *Chrysaora achlyos*
 >Age -> 15 years 
 >Strobilation Day -> N/A
 >Gender -> Male
@@ -30,7 +30,7 @@ He is incredibly self-conscious of the fact he is larger and darker than other j
 
 # Gallery
 ---
-![[Pasted image 20260914003930.png]]
+![[achlys and shimako hanging out.png]]
 *Achlys hanging out with Shimako for the first time in a while.*
 # Etymology
 ---
@@ -38,8 +38,8 @@ _Ortega_ is written as オルテガ:
 - Ortega refers to the Spanish last name, meaning "Nettle" (a direct reference to the name of the jellyfish)
 
 _Achlys_ is written as アクリス:
-- Achlys is a direct reference to the species name for the Black Sea Nettle, which refers to the Greek Goddess of pain and misery.
-- It's just really cool.
+- Achlys is a direct reference to the species name for the Black Sea Nettle (*Chrysaora achlyos*), which refers to the Greek Goddess of pain and misery.
+- I think it's just really cool.
 
 # Fun Facts
 ---

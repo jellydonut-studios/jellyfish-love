@@ -1,5 +1,5 @@
 > [!infobox] Shimako Yanagi
->![[Pasted image 20260914001113.png]]
+>![[shimako yanagi.png]]
 >JP Name -> 柳縞子
 >// Character Information
 >Jellyfish -> *Chrysaora pacifica*
@@ -28,7 +28,7 @@ As a jellyfish, Shimako is a typical Japanese Sea Nettle with the distinctive st
 [[Ako Yanagi]] is her biological biological mother and [[Nichirin Yanagi]] is her step mother. She is close friends with [[Achlys Ortega]].
 # Gallery
 ---
-![[Pasted image 20260914003930.png]]
+![[achlys and shimako hanging out.png]]
 *Shimako hanging out with Achlys for the first time in a while.*
 # Etymology
 ---

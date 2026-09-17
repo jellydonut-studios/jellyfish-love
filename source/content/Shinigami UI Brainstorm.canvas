@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"01caf81e879d804c","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Use a square resolution??? (like retro games)"}
+	],
+	"edges":[]
+}

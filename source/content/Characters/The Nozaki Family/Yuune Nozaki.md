@@ -2,7 +2,7 @@
 > This entry contains spoilers for the Jellyfish Otome Game. You have been warned!
 
 > [!infobox] Yuune Nozaki
-> ![[Pasted image 20260914005331.png]]
+> ![[yuune nozaki jellyfish.png]]
 > JP Name -> 野崎幽音
 > // Character Information
 > Jellyfish -> *Cyanea nozakii*
@@ -42,6 +42,7 @@ _Yuune_ is written as 幽音:
 - Her voice is described as sad and soulful. 
 - The water around her gets cold sometimes
 - Her spiritual power is being completely forgettable, unfortunately. 
+- I need to change her name because it's more of a last name than anything... (Perhaps Yuuji?)
 
 # Links
 ---

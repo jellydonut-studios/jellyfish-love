@@ -6,22 +6,20 @@
       {
         "id": "2aed43a08949caef",
         "type": "tabs",
+        "dimension": 45.030674846625764,
         "children": [
           {
             "id": "13477756cd69d532",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Shinigami Brainstorming.canvas",
-                "viewState": {
-                  "x": -1936.7346614881378,
-                  "y": 713.9320527061491,
-                  "zoom": -0.333333333333333
-                }
+                "file": "Characters/The Nozaki Family/Yuune Nozaki.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Shinigami Brainstorming"
+              "icon": "lucide-file",
+              "title": "Yuune Nozaki"
             }
           },
           {
@@ -66,39 +64,23 @@
               "title": "Ako Yanagi"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "805e523f012ac4f0",
+        "id": "6d3957da96e74f9b",
         "type": "tabs",
+        "dimension": 54.969325153374236,
         "children": [
           {
-            "id": "0729d84fbd1ea77e",
+            "id": "7c32a52530c410df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Places/Underwater Kyoto.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Ushio Sakasai.png"
               },
-              "icon": "lucide-file",
-              "title": "Underwater Kyoto"
-            }
-          },
-          {
-            "id": "71290a7ba7acf00d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Crown Academy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Crown Academy"
+              "icon": "lucide-image",
+              "title": "Ushio Sakasai"
             }
           }
         ]
@@ -269,48 +251,47 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0729d84fbd1ea77e",
+  "active": "13477756cd69d532",
   "lastOpenFiles": [
     "Places/Crown Academy.md",
-    "Places/Underwater Kyoto.md",
+    "Media/The Jellyfish Otome Game.md",
+    "Images/Ushio Sakasai.png",
+    "Images/Uploaded Images.base",
+    "Images/taco kun fails 1.jpg",
+    "Images/Shinigami kun.jpg",
+    "Images/shimako yanagi.png",
+    "Images/Shima Hiratoki.png",
+    "Images/saburuou 1.png",
+    "Images/saburou hiue doodle.PNG",
+    "Images/Rei Samukawa (ref).png",
+    "Images/Rei Samukawa.png",
+    "Images/placeholder.png",
+    "Characters/Taco kun.md",
+    "Characters/Sui Mizutsuki.md",
     "Characters/Shimako Yanagi.md",
+    "Characters/Shima Hiratoki.md",
+    "Characters/Rei Samukawa.md",
+    "Characters/Ponyo Shinawa.md",
+    "Characters/Kiseki Ishiboshi.md",
+    "Characters/Nichirin Yanagi.md",
+    "Characters/Kanzou Sugama.md",
+    "Characters/Achlys Ortega.md",
+    "Characters/Ako Yanagi.md",
+    "Characters/Characters.base",
+    "Shinigami UI Brainstorm.canvas",
+    "Shinigami Brainstorming.canvas",
+    "Places/Underwater Kyoto.md",
     "Local Girls' Highschool.md",
     "Places/HYPERDOLPHIN.md",
-    "Characters/Ako Yanagi.md",
     "Media/The Shinigami that is also a Jellyfish.md",
     "Characters/The Kaburagi Family/Luís Momoka Silveira Kaburagi.md",
-    "Characters/Achlys Ortega.md",
     "Characters/The Hiue Family/Eko Hiue.md",
-    "Images/THE CULPRIT.png",
-    "Images/Rei Samukawa (ref).png",
-    "Images/Akuros banner.png",
-    "Images/boy do i love holographic umbrellas (i hate them).png",
-    "Images/category 5 hair down incident.png",
-    "Images/haruto banner.png",
-    "Images/luis open wide.png",
-    "Images/rei cutie.jpg",
-    "Pasted image 20260914110926.png",
-    "Media/The Jellyfish Otome Game.md",
     "Characters/The Kaburagi Family/Futao Kaburagi.md",
     "Characters/The Kaburagi Family/The Kaburagi Family.md",
-    "Images/luis regalia.png",
-    "Characters/Kanzou Sugama.md",
-    "Characters/Sui Mizutsuki.md",
-    "Characters/Rei Samukawa.md",
-    "Characters/Kiseki Ishiboshi.md",
     "Characters/The Sakasai Family/Yoshinori Sakasai.md",
     "Characters/The Sakasai Family/Ushio Sakasai.md",
     "Characters/The Sakasai Family/The Sakasai Family.md",
     "Characters/The Sakasai Family/Shinki Sakasai.md",
-    "Characters/The Nozaki Family/Yuune Nozaki.md",
-    "Characters/The Nozaki Family/The Nozaki Family.md",
-    "Characters/The Nakachi Family/Helios Nakachi.md",
-    "Characters/The Hiue Family/Katsuo Hiue.md",
-    "Characters/The Hiue Family/Gorou Hiue.md",
-    "Shinigami Brainstorming.canvas",
-    "Shinigami UI Brainstorm.canvas",
-    "Characters/Characters.base",
-    "Images/Uploaded Images.base",
     "private",
     "templates",
     "Worldbuilding Notes.canvas",

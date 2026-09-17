@@ -16,14 +16,14 @@ You play as [[Ponyo Shinawa]], a high school girl attending her first year at th
 ---
 The main characters of the game are as follows:
 
-| Character                         | Role                           |
-| --------------------------------- | ------------------------------ |
-| [[Ponyo Shinawa]]                 | Otome Game Main Character      |
-| [[Sui Mizutsuki]]                 | Childhood Friend Love Interest |
-| [[Achlys Ortega]]                 | Asshole Love Interest          |
-| [[Luís Momoka Silveira Kaburagi]] | The Ore-Sama Love Interest     |
-| [[Ushio Sakasai]]                 | The Prince-type Love Interest  |
-| [[Kanzou Sugama]]                 | The Flirty Love Interest       |
+|                              | Character                         | Role                           |
+| ---------------------------- | --------------------------------- | ------------------------------ |
+| ![[placeholder.png\|500]]    | [[Ponyo Shinawa]]                 | Otome Game Main Character      |
+| ![[haruto banner.png\|500]]  | [[Sui Mizutsuki]]                 | Childhood Friend Love Interest |
+| ![[Achlys returns.png\|500]] | [[Achlys Ortega]]                 | Asshole Love Interest          |
+| ![[luis regalia.png]]        | [[Luís Momoka Silveira Kaburagi]] | The Ore-Sama Love Interest     |
+| ![[Ushio Sakasai.png]]       | [[Ushio Sakasai]]                 | The Prince-type Love Interest  |
+| ![[Kanzou Sugama.jpg]]       | [[Kanzou Sugama]]                 | The Flirty Love Interest       |
 
 
 # Plot

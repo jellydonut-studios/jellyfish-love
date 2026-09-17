@@ -1,5 +1,5 @@
 > [!infobox] Katsuo Hiue
-> ![[Pasted image 20260914004125.png]]
+> ![[katsuo hiue.png]]
 > JP Name -> 火上勝雄
 > // Character Information
 > Jellyfish -> *Morbakka virulenta*
@@ -26,7 +26,7 @@
 
 # Gallery
 ---
-![[Pasted image 20260914004038.png]]
+![[katsuo ref (cut).png]]
 *Quick reference sheet drawn for practice*
 # Etymology
 ---

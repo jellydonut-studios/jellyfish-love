@@ -1,5 +1,5 @@
 > [!infobox] Saburou Hiue
-> ![[Pasted image 20260403181820.png]]
+> ![[saburuou 1.png]]
 > JP Name -> 火上三郎
 > // Character Information
 > Jellyfish -> *Morbakka virulenta*
